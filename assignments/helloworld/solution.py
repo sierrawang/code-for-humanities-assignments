@@ -1,6 +1,13 @@
+"""
+This code is starter code; you should edit and run it to 
+solve the problem.
+"""
 
 def main():
-    print("Hello world!")
+    # TODO: Delete "pass" and write your code below
+    print("Hello, World!")
 
-if __name__ == "__main__":
+
+# Run the main function when this file is executed. No need to edit these lines!
+if __name__ == '__main__':
     main()

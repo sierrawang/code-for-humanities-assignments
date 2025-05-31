@@ -6,7 +6,6 @@ def main():
     dog_years = DOG_YRS_MULTIPLIER*calendar_years
     print(f"That's {dog_years} in dog years!")
 
-
 # There is no need to edit code beyond this point
 if __name__ == '__main__':
     main()

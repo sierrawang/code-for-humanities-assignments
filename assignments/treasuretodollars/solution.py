@@ -1,3 +1,4 @@
+
 OZ_PER_COIN = 0.27
 DOLLAR_PER_OZ = 3308.60  # as of May 31, 2025
 

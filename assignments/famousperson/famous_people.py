@@ -1,0 +1,50 @@
+import random
+
+FAMOUS_PEOPLE = [
+    "George Washington",
+    "Napoleon Bonaparte",
+    "Ada Lovelace",
+    "Alexander the Great",
+    "William Shakespeare",
+    "Melinda Gates",
+    "Eleanor Roosevelt",
+    "Hillary Clinton",
+    "Michelle Obama",
+    "Michael Jackson",
+    "Will Ferrell",
+    "Denzel Washington",
+    "Shaq",
+    "John Hennessey",
+    "Alan Turing",
+    "Mahatma Ghandi",
+    "Nelson Mandela",
+    "Martin Luther King Jr.",
+    "Cleopatra VII",
+    "Marie Curie",
+    "Frida Kahlo",
+    "Harriet Tubman",
+    "Taylor Swift",
+    "Mia Hamm",
+    "Serena Williams",
+    "Babe Ruth",
+    "Katherine Johnson",
+    "Margaret Thatcher",
+    "Julius Caeser",
+    "Michael Jordan",
+    "Helen of Troy",
+    "Sir Isaac Newton",
+    "George W. Bush",
+    "Lionel Messi",
+    "Galileo Galilei",
+    "Jane Goodall",
+    "Vincent van Gogh",
+    "Albert Einstein",
+    "Nicolaus Copernicus",
+    "Beethoven",
+    "Mozart",
+    "Joan of Arc"
+]
+
+# Return a random person from the list
+def get_random_person():
+    return random.choice(FAMOUS_PEOPLE)

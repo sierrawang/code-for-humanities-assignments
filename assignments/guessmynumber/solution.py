@@ -16,7 +16,7 @@ def main():
         else:
             print("Your guess is too high")
             
-        print() # Print an empty line to tidy up the console for new guesses
+        print() # Print an empty line
         guess = int(input("Enter a new guess: "))  # Get a new guess from the user
         
     print("Congrats! The number was: " + str(secret_number))

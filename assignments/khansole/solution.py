@@ -2,16 +2,29 @@ import random
 
 def main():
     print("Khansole Academy")
-    random_num_1 = random.randint(10, 99)
-    random_num_2 = random.randint(10, 99)
-    print(f"What is {random_num_1} + {random_num_2}?")
-    user_answer = int(input("Your answer: "))
-    correct_answer = random_num_1 + random_num_2
-    if user_answer == correct_answer:
-        print("Correct!")
-    else:
-        print("Incorrect.")
-        print("The expected answer is", correct_answer)
+    
+    correct_in_a_row = 0
+
+    while correct_in_a_row < 3:
+        # Generate two random numbers
+        num1 = random.randint(1, 100)
+        num2 = random.randint(1, 100)
+
+        print(f"What is {num1} + {num2}?")
+        user_ans = int(input("Your answer: "))
+        true_ans = num1 + num2
+
+        if user_ans == true_ans:
+            print("Correct!")
+            correct_in_a_row += 1
+            print(f"You've gotten {correct_in_a_row} correct in a row.")
+        else:
+            print("Incorrect.")
+            correct_in_a_row = 0
+            print(f"The expected answer is {true_ans}")
+        print()
+
+    print("Congratulations! You mastered addition.")
     
 if __name__ == '__main__':
     main()

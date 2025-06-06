@@ -1,0 +1,8 @@
+
+
+def main():
+    filename = "poem.txt"
+    # Your code goes here
+
+if __name__ == '__main__':
+    main()

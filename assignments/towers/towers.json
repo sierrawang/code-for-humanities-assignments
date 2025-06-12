@@ -1,0 +1,52 @@
+[
+    {
+        "name": "The Washington Monument",
+        "age": 137,
+        "height": 169.29
+    },
+    {
+        "name": "The Great Pyramid of Giza",
+        "age": 4500,
+        "height": 138
+    },
+    {
+        "name": "Big Ben",
+        "age": 182,
+        "height": 96.3
+    },
+    {
+        "name": "Eiffel Tower",
+        "age": 135,
+        "height": 330
+    },
+    {
+        "name": "Burj Khalifa",
+        "age": 15,
+        "height": 828
+    },
+    {
+        "name": "Tokyo Skytree",
+        "age": 13,
+        "height": 634
+    },
+    {
+        "name": "CN Tower",
+        "age": 49,
+        "height": 553.3
+    },
+    {
+        "name": "Empire State Building",
+        "age": 94,
+        "height": 381
+    },
+    {
+        "name": "Petronas Towers",
+        "age": 26,
+        "height": 451.9
+    },
+    {
+        "name": "Oriental Pearl Tower",
+        "age": 30,
+        "height": 468
+    }
+]

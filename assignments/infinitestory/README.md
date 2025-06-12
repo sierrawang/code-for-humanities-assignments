@@ -66,7 +66,7 @@ Before proceeding, take some time to understand how the data in story_data is or
 an excerpt of the story_data dictionary
 
 
-```
+```json
 {
     "plot": "You are exploring a world. Almost every scene is normal, but if the hero explores
     enough of the normal parts (eg more than 10 scenes), they will slowly start to uncover the
@@ -107,3 +107,40 @@ an excerpt of the story_data dictionary
     ... # more scenes, hidden for space
 }
 ```
+
+Wow! A truly nested dictionary. Don't be intimidated by it. Instead, understand it step by step.
+
+Story: Every story is a dictionary with two keys: a key "plot" that is associated with a string
+description of the overall story line, and a key "scenes" that is associated with a dictionary
+containing all the data of the scenes in the story (see Scenes below).
+
+Scenes: A dictionary with all the scene data. In the scenes dictionary scene keys are associated
+with all the data for that given scene. Each scene has a "text" description, a "scene_summary"
+and a list of choices that the user can take from the scene (see Choices below). Here is
+scene_data associated with the scene key "knocking_on_small_brick_building". It only has one
+choice: 
+
+```json
+    {
+        "text": "You knock on the door, but no one answers. You hear a faint sound of a dog barking
+        from inside.",
+        "scene_summary": "Nobody answers.",
+        "choices": [
+            {
+            "text": "Go back to the start",
+            "scene_key": "start"
+            }
+        ]
+    }
+```
+
+
+Choice: A choice has both the "text" of the choice and the "scene_key" that the hero will go to if
+they take this choice.
+
+Now that you have the story_data loaded, it is time to program `warmup.py` to find "dead ends":
+    • Loop over all the scenes in the story.
+    • For each scene, loop over all the choices for that scene.
+    • Each choice has a value associated with the key "scene_key".
+    • If the scene_key is not a key in story_data["scenes"], then it is a dead end. Print out
+    scene_key

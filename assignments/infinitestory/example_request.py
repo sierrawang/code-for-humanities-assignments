@@ -3,7 +3,7 @@ import json
 
 # If you want to use your own GPT
 # client = OpenAI(api_key="your_openai_api_key")
-CLIENT = OpenAI(api_key="your api key")
+CLIENT = OpenAI(api_key="api_key")
 
 
 def main():

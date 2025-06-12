@@ -1,6 +1,6 @@
 # My First JSON
 
-Welcome to your first JSON assignment! In this task, you will read in the `my_first.json` file, convert it to JSON, then print our the contents in the format:
+Welcome to your first JSON assignment! In this task, you will read in the `my_first.json` file as a dictionary, then print our the contents in the format:
 
 ```
 Key: <the key>

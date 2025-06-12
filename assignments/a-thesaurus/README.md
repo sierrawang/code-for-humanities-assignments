@@ -27,7 +27,7 @@ In this folder you have a file called `a.json` that contains a dictionary object
 
 Such that each key is a word where the value is a list of up to 3 Synonyms. Note that all of the words in the dictionary start with the letter "A" (and are all uppercase). 
 
-Your task is to read in the `a.json` file, convert it to JSON, then allow the user to query your program for synonyms of a word that starts with the letter "A". If a word does not exist in the thesaurus, output a message saying that no synonyms were found.
+Your task is to read in the `a.json` file as a dictionary, then allow the user to query your program for synonyms of a word that starts with the letter "A". If a word does not exist in the thesaurus, output a message saying that no synonyms were found.
 A sample run of your program should look like this:
 
 ```

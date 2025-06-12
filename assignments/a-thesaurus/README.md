@@ -3,7 +3,7 @@ In this folder you have a file called `a.json` that contains a dictionary object
 
 ```
 {
-    ,,,
+    ...
      "ACCEPT": [
         "Take",
         "Swallow",
@@ -21,7 +21,7 @@ In this folder you have a file called `a.json` that contains a dictionary object
         "Satisfactory",
         "Acceptable"
     ],
-    ,,,
+    ...
 }
 ```
 
@@ -46,4 +46,7 @@ Enter another word to find synonyms (or press Enter to exit):
 ## Optional Extension
 If a word is not found in the thesaurus, allow the user to add a new word and its synonyms. Make sure to write the file with the new word and synonyms back to `a.json` so that it is saved for future runs of the program.
 
-```
+
+## If you are interested
+You can find json files containing definitions, synonyms, and antonyms for words with any starting letter here:
+https://github.com/nightblade9/simple-english-dictionary/tree/main/data

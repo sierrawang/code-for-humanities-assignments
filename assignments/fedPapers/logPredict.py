@@ -43,15 +43,6 @@ def calc_log_pr_doc_given_author(prob_map, counts):
         log_prob += c_i * math.log(p_i)
     return log_prob
 
-
-def calcLogProbDoc(wordProbMap, countMap):
-    logProb = math.log(1)
-    for wordi in countMap:
-        ci = countMap[wordi]
-        pi = getWordProb(wordProbMap, wordi)
-        logProb += ci * math.log(pi)
-    return logProb
-
 # If a word is in a probability dictionary, return its probability
 # otherwise, return epsilon
 def get_word_prob(word_prob_map, word):

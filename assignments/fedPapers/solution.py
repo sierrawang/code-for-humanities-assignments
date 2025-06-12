@@ -1,36 +1,7 @@
-import csv
 from itertools import count
-import operator
 import math
 
 EPSILON = 0.000001
-
-def main():
-    # Calculate all the ps and qs
-    # Eg hamiltonWordProb['congress'] = 0.005
-    # hamilton_word_prob['piech'] = 0.0
-    # hamilton_word_prob['the'] = 0.001
-
-    hamilton_word_prob = make_word_prob_map('hamilton.txt')
-    madison_word_prob = make_word_prob_map('madison.txt')
-
-    
-
-    # Get the word count of the unknown document
-    # Eg unknown_doc_count['congress'] = 5
-    unknown_doc_count, n_words = make_word_count_map('unknown.txt')
-
-    print("hamilton['congress']\t", hamilton_word_prob['congress'])
-    print("madison['congress']\t",  madison_word_prob['congress'])
-    print("doc_count['congress']\t", unknown_doc_count['congress'])
-    print("n_words", n_words)
-
-    hamilton_term = calc_log_pr_doc_given_author(hamilton_word_prob, unknown_doc_count)
-    madison_term = calc_log_pr_doc_given_author(madison_word_prob, unknown_doc_count)
-    print("log P(D|H)\t", hamilton_term)
-    print("log P(D|M)\t",madison_term)
-
-    print('diff\t', hamilton_term - madison_term)
 
 def calc_log_pr_doc_given_author(prob_map, counts):
     """
@@ -91,6 +62,32 @@ def standardize(word):
     # remove punctuation
     standard = ''.join([i for i in standard if i.isalpha()])
     return standard
+
+def main():
+    # Calculate all the ps and qs
+    # Eg hamiltonWordProb['congress'] = 0.005
+    # hamilton_word_prob['piech'] = 0.0
+    # hamilton_word_prob['the'] = 0.001
+
+    hamilton_word_prob = make_word_prob_map('hamilton.txt')
+    madison_word_prob = make_word_prob_map('madison.txt')
+
+    # Get the word count of the unknown document
+    # Eg unknown_doc_count['congress'] = 5
+    unknown_doc_count, n_words = make_word_count_map('unknown.txt')
+
+    print("hamilton['congress']\t", hamilton_word_prob['congress'])
+    print("madison['congress']\t",  madison_word_prob['congress'])
+    print("doc_count['congress']\t", unknown_doc_count['congress'])
+    print("n_words", n_words)
+
+    hamilton_term = calc_log_pr_doc_given_author(hamilton_word_prob, unknown_doc_count)
+    madison_term = calc_log_pr_doc_given_author(madison_word_prob, unknown_doc_count)
+    
+    print("log P(D|H)\t", hamilton_term)
+    print("log P(D|M)\t",madison_term)
+
+    print('diff\t', hamilton_term - madison_term)
 
 if __name__ == '__main__':
     main()

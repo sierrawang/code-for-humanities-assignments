@@ -11,10 +11,8 @@ def clean_text_file(file_path):
     for line in cleaned_lines:
         print(line)
 
-
 def main():
     clean_text_file("messy_text.txt")
-
 
 if __name__ == "__main__":
     main()

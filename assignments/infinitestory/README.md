@@ -144,10 +144,10 @@ Choice: A choice has both the "text" of the choice and the "scene_key" that the 
 they take this choice.
 
 Now that you have the story_data loaded, it is time to program `warmup.py` to find "dead ends":
-    • Loop over all the scenes in the story.
-    • For each scene, loop over all the choices for that scene.
-    • Each choice has a value associated with the key "scene_key".
-    • If the scene_key is not a key in story_data["scenes"], then it is a dead end. Print out
+* Loop over all the scenes in the story.
+* For each scene, loop over all the choices for that scene.
+* Each choice has a value associated with the key "scene_key".
+* If the scene_key is not a key in story_data["scenes"], then it is a dead end. Print out
     scene_key
 
 For example if you ran `warmup.py` with the story constant set to "original_small.json" file it

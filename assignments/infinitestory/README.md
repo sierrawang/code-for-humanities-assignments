@@ -59,7 +59,7 @@ First, load in a story dictionary. Since each story is in json format you can lo
 following line of code which should be at the start of your `main` function:
 
 ```python
-story_data = ""
+story_data = None
 with open('data/original_small.json') as file:
     story_data = json.load(file)
 ```

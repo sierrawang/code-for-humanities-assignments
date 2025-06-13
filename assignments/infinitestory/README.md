@@ -168,8 +168,7 @@ You can also try these optional challenges. Can you print out these values using
 • The "scene_key" you would go to if you took the first choice from the "start" scene (the
 choice that has text "Take the road up the hill")?
 
-## Milestone 2: Printing a Scene to the Console and getting a Valid Choice
-### Print a Scene
+## Milestone 2: Printing a Scene to the Console 
 Write a function to print a single scene to the console. It should only take one parameter, the
 dictionary associated with that scene. Write your code in `infinite_story.py`. In this new
 program you should load the story_data json in the same way as in Milestone 1. You can test
@@ -200,7 +199,7 @@ choice.
 Your function should work for any scene, not just the start. Note, that you do not need to use the
 "scene_summary" key, that will come in handy later.
 
-### Get a Valid Choice
+## Milestone 3: Getting a Valid Choice from the User
 Write a function to get a valid choice from the user. This function should also only take in one
 parameter, the data dictionary of a scene. It should return the choice the user made.
 
@@ -255,7 +254,7 @@ what do we do if we don't have a scene description?! We will resolve this issue 
 milestone! :)
 
 
-## Milestone 3: Handling Infinity
+## Milestone 4: Handling Infinity
 
 When we get to a scene key where we don't have scene data (i.e. the key does not exist in our
 story_data dictionary, a dead end), we are not going to crash. Instead, we are going to call upon

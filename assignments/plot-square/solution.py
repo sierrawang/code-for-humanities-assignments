@@ -12,8 +12,7 @@ def main():
     plt.title('Random Scatter Plot')
     plt.xlabel('X-axis')
     plt.ylabel('Y-axis')
-    plt.show()
-    plt.savefig('expected_result.png')
+    plt.savefig('expected_plot.png')
 
 
 

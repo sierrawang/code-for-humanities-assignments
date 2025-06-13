@@ -165,9 +165,9 @@ as it is a key in the scenes dictionary. Recall that for this milestone you shou
 not matter. 
 
 You can also try these optional challenges. Can you print out these values using story_data:
-• The "plot" of the story?
-• The "text" description of the scene with key "start"?
-• The "scene_key" you would go to if you took the first choice from the "start" scene (the
+* The "plot" of the story?
+* The "text" description of the scene with key "start"?
+* The "scene_key" you would go to if you took the first choice from the "start" scene (the
 choice that has text "Take the road up the hill")?
 
 ## Milestone 2: Printing a Scene to the Console 

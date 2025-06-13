@@ -69,7 +69,13 @@ def main():
 
     # Get the word count of the unknown document
     # Eg unknown_doc_count['congress'] = 5
-    unknown_doc_count, n_words = make_word_count_map('unknown.txt')
+
+    # delete this line:
+    # unknown_doc_count, n_words = make_word_count_map('unknown.txt') # FIX THIS!!!
+
+    # new version:
+    unknown_doc_count = make_word_count_map('unknown.txt')
+    n_words = get_new_words('unknown.txt')
 
     print("hamilton['congress']\t", hamilton_word_prob['congress'])
     print("madison['congress']\t",  madison_word_prob['congress'])

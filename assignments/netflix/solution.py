@@ -14,9 +14,8 @@ def main():
 
     # use .apply() with that function
     df['complete_director'] = df['director'].apply(is_missing)
-    df['complete_cast'] = df['cast'].apply(is_missing)
 
-    fieldnames = ['title', 'director', 'cast']
+    fieldnames = ['title', 'director']
 
     # Step 4: write out to CSV using csv.writer
     output_file = 'tv_shows.csv'

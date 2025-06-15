@@ -1,0 +1,259 @@
+Record ID: 1000
+Date: 1359
+Location: Bordeaux
+Source: Paris, BnF lat. 1590, fols. 46v-62
+--
+Transcribed by: Jasmin Hauck (from MS); Lena Cavicchia (formatting)
+Date Started: November 15, 2019
+Date Finished: December 27, 2020
+Reviewed RWD: January 7, 2021
+Problems or Queries:
+NB: RWD will review numbering later.
+
+--
+Notes:
+[1] excommunicatorum ms.
+[2] Vat.lat; Qui ms.
+[3] Vat.lat. secularum ms.
+[4] Pectoris Vat.lat.
+[5] Vat.lat; quas ms.
+[6] Desinunt Vat.lat.
+[7] Reformatione Vat.lat.
+[8] Delinquendi Vat.lat.
+[9] Vat.lat; excommunicationis  excommunicatorias ms.
+[10] In elemosynas Vat.lat.
+[11] Convertendas Vat.lat.
+[12] Vat.lat; an ms.
+[13] domni
+[14] Vat.lat; Ger[aldi]
+[15] Oneramus Vat.lat.
+[16] Om. „eo utantur“ Vat.lat.
+[17] Vat.lat; P[etri]
+[18] Vat.lat. statuim ms.
+[19] Interlinear
+[20] Vat.lat; recepturos ms.
+[21] Burdegalensi Vat.lat.
+[22] Vat.lat; defectus ms.
+[23] G[eraldi] 
+[24] Vat.lat; provincialis ms.
+[25] G[eraldi] 
+[26] P[etri]
+[27] Vat.lat; [aut]
+[28] Appareat Vat.lat.
+[29] Vat.lat.; vel autem transgressorum ms.
+[30] [pro]uincialem
+[31] Domni Vat.lat.
+[32] Vat.lat; taxat ms; G[eraldi]
+[33] Burdegalensis dumtaxat Vat.lat.
+[34] Vat.lat; iustorum ms.
+[35] Domni Vat.lat.
+[36] P[etri]
+[37] Cum enim Vat.lat.
+[38] Om. Vat.lat.
+[39] Vat.lat; continuo abusu ms.
+[40] Vat.lat; Suetudine dampnata ms.
+[41] Inoleuit Vat.lat.
+[42] Conuertendo Vat.lat.
+[43] Vat.lat.; prebeat ms.
+[44] Burdegalensi Vat.lat.
+[45] Exsoluendorum Vat.lat; exsoluendam ms.
+[46] Cappellanum ms; Vat.lat.
+[47] notificent Vat.lat.
+[48] Domni Vat.lat.
+[49] P[etri]
+[50] Synodum Vat.lat.
+[51] Quod Vat.lat.
+[52] Vat.lat; moderantes ms.
+[53] Maxime ms.
+[54] Domni Vat.lat.
+[55] P[etri]
+[56] Rasure Vat.lat.
+[57] Ultima ms.
+[58] Vat.lat; procedantur ms.
+[59] Vat.lat. approbationem ms.
+[60] Soluendum Vat.lat.
+[61] locus vitiosus videat' Vat.lat.
+[62] Vat.lat; suscitent et ms.
+[63] per regulare Vat.lat.
+[64] Vat.lat.; Monachum ms.
+[65] Et etiam Vat.lat.
+[66] Vat.lat; vel ms.
+[67] Sacerdotis Vat.lat.
+[68] Vat.lat; fungari ms.
+[69] Vat.lat; peccatorum ms.
+[70] Vat.lat; partem ms.
+[71] Commovit Vat.lat.
+[72] Item per ms.
+[73] Commutatione Vat.lat.
+[74] Fractione Vat.lat.
+[75] Probatur Vat.lat.
+[76] Scienter et Vat.lat.
+[77] Sacrilegis Vat.lat.
+[78] Legatorum Vat.lat.
+[79] Immutatis ms.
+[80] De ecclesia Vat.lat.
+[81] Injicientibus Vat.lat ; iniecentibus ms.
+[82] Vat.lat; cura ms.
+[83] Dubio Vat.lat.
+[84] Moniales Vat.lat.
+[85] Dicatis Vat.lat.
+[86] Vat.lat. viros ms.
+[87] Vat.lat. deputatos ms.
+[88] Vat.lat. oblatos ms.
+[89] Donatio Vat.lat; donatos ms.
+[90] Matrimonia Vat.lat.
+[91] Om. Vat.lat.
+[92] Em.
+[93] Vat.lat; Oriatur ms.
+[94] Vat.lat; malefici ms.
+[95] Et ligamina ms; Vat.lat.
+[96] Vat.lat; suscepit ms.
+[97] Vat.lat; [vel]
+[98] Vat.lat; [vel]
+[99]  Vat.lat.: 'locus mendosus videtur'
+[100] Om. (a dominis) Vat.lat.
+[101] Esse Vat.lat.
+[102] Om.Vat.lat.
+[103] Vat.lat; conuersar. Ms.
+[104] A[maneuus]
+[105] Vat.lat; ualeat ms.
+[106] incurritur Vat.lat.
+[107] Vat.lat; eidem ms.
+[108] Om. (vt de penis. Felic.) Vat.lat.
+[109] Vat.lat; tutelerant ms.
+[110] Vat.lat.; ipsa ms.
+[111] Imponunt Vat.lat; imponent ms.
+[112] Vat.lat; inmittent  ms. 
+[113] Vat.lat; reuocant excommunicant ms.
+[114] Em.
+[115] Earum Vat.lat.
+[116] Admoniti 
+[117] Isquiliniis ms; Vat.lat.
+[118] Vat.lat; [vel]
+[119] Vat.lat; scriptorum ms.
+[120] Domnis Vat.lat.
+[121] Da... Vat.lat; Fa... ms.
+[122] Vat.lat; de de ms.
+[123] Revocationis ms.
+[124] Iura et ms.
+[125] Vat.lat; acidit ms.
+[126] Ecclesiasti ms.
+[127] Em.
+[128] Christianos Vat.lat.
+[129] Vat.lat; concedut ms.
+[130] Vat.lat. se ms.
+[131] Vat.lat; quocumque ms.
+[132] Vat.lat.; fecerunt ms.
+[133] Vat.lat; presentent (se presentet) ms.
+[134] Vat. lat; suscepturiis ms.
+[135] Faciunt Vat.lat.
+[136] Vat.lat; poterint ms.
+[137] Quorum absolutio pape non Vat.lat.
+[138] Vat.lat; excommunicati ms.
+[139] Vat.lat. solvi.
+[140] Vat.lat; [et]
+[141] Vat.lat.; desisterint ms.
+[142] Vat.lat; excommunicamus ms.
+[143] Vat.lat; sceptra ms.
+[144] Vat.lat; desisterint ms.
+[145] Vat.lat; [aut]
+[146] De contrahentibus Vat.lat.
+[147] Vat.lat.; ecclesiasticarum ms.
+[148] Vat.lat; hominibus domibus ms.
+[149] Vat.lat; [sint]
+[150] Sint Vat.lat.
+[151] Vat.lat; matrimonia uel ms.
+[152] Vat.lat; [presumunt]
+[153] Promulgatis seu ms.
+[154] Absolunt ms.
+[155] Om. (secundum benedictionem) Vat.lat.
+[156] Marginal (Et primo...archiepiscopi)
+[157] Respondere Vat.lat.
+[158] Vat.lat; nec ms.
+[159] Domni Vat.lat.
+[160] Vat.lat; decima ms.
+[161] Vat.lat.; hospitantur ms.
+[162] Invitis Vat.lat.
+[163] Vat.lat; recepit ms.
+[164] Vat.lat; constitutione ms.
+[165] Domni Vat.lat.
+[166] Marginal
+[167] Marginal
+[168] Vat.lat; in ms.
+[169] Vat.lat.; superiorum ms.
+[170] Vat.lat; [et]
+[171] Om. Vat.lat; Reformatio ms.
+[172] Vat.lat; P[etri]
+[173] Vat.lat.; Interlinear (Sequntur É Petri).
+[174] interlinear
+[175] Sequuntur constitutiones Vat.lat.
+[176] Vat.lat; P[etri]
+[177] Vat.lat; [non]
+[178] Vat.lat; ababsolutione ms.
+[179] Vat.lat; illi ms.
+[180] Interlinear
+[181] Interlinear
+[182] Interlinear
+[183] Archipresbiteri et ms.
+[184] Vat.lat; firma ms.
+[185] Vat.lat; fuctus ms.
+[186] Om. Vat.lat.
+[187] Vat.lat; et et ms.
+[188] P[etri]
+[189] Marginal: pro chrismate 
+[190] Vat.lat; clericos ms.
+[191] Marginal
+[192] A[manevi]
+[193] Sequuntur constitutiones Vat.lat.
+[194] Vat.lat; A[manevi]
+[195] Vat.lat; beneficiatorum ms.
+[196] Saturnini Vat.lat.
+[197] Irregularitatibus Vat.lat.
+[198] Vat.lat; [reddit]
+[199] Vat.lat [est]
+[200] Exinationes ms; exinuationes Vat.lat.
+[201] Vat.lat; paratus ms.
+[202] Vat.lat; [non] 
+[203] Irregularis Vat.lat.
+[204] Vat.lat.; offendit ms.
+[205] Que medicina ms.
+[206] Vat.lat; est ms.
+[207] Iudicem ms.
+[208] Vat.lat; permittit ms.
+[209] Vat.lat; respondit ms.
+[210] Vat.lat; ad celebrationem ms.
+[211] Vat.lat.; progeniem clericos (ad clericatum) ms.
+[212] Vat.lat.; diligentiam non ms.
+[213] Vat.lat; et ms.
+[214] Irregularis est Vat.lat.
+[215] Cirurgici ms.; Cirurgici si Vat.lat.
+[216] eius Vat.lat.
+[217] aut Vat.lat.
+[218] Vat.lat; ut ms.
+[219] Vat.lat; det ms.
+[220] Faceret ms; facit Vat.lat.
+[221] Vat.lat; aut ms.
+[222] Eamdem Vat.lat.
+[223] Vat.lat; ipsos ms.
+[224] Vat.lat; ex ms.
+[225] Vat.lat; mocione ms.
+[226] Vat.lat. irregularitates ms.
+[227] Vat.lat; superiori ms.
+[228] Vat.lat; prohibitum ms.
+[229] Vat.lat; heresin ms.
+[230] Vat.lat; ? ms.
+[231] Marg. (? licet) ms.
+[232] Quatuor Vat.lat.
+[233] Vat.lat; apostaziam ms.
+[234] Maioris Vat.lat.
+[235] amisit Vat.lat.
+[236] Alius (A suis) ms.
+[237] Vat.lat; periurii ms.
+[238] Proferentes Vat.lat.
+[239] Peccuniam Vat.lat.
+[240] Vat.lat; Presumunt ms.
+
+
+
+
+

@@ -1,0 +1,44 @@
+Record ID: 2612
+Date: 1320
+Location: Carcassonne
+Source: Paris BnF lat 1613, fol 67v-68r; Carcassonne, Bibliothèque diocésaine, ms. 3, fol. 73r-74r
+
+--
+Transcribed by: Jasmin Hauck, with additions and corrections by Christine Barralis
+Date Started: April 24, 2018
+Date Finished: October 22, 2022
+Reviewed RWD: July 19, 2023
+Problems or Queries:
+
+--
+Notes:
+[1] Title omitted in BnF and BAV mss.
+[2] In BnF and BAV mss, the following text is incorrectly separated into a distinct chapter.
+[3] prodecessorum BnF ms.
+[4] de Vat.lat.
+[5] pa[s]che
+[6] Vat.lat. matitunis BnF ms.
+[7] [p]salmi Vat.lat.
+[8] Vat.lat; matituni BnF ms.
+[9] Vat.lat; amenis BnF ms.
+[10] lectionum Vat.lat.
+[11] que Vat.lat.
+[12] Vat.lat; cognouerunt BnF ms.
+[13] retinea[n]t Vat.lat.
+[14] Vat.lat. poterant BnF ms.
+[15] Vat.lat; retimare BnF ms.
+[16] om; litteras ipsius BnF ms; litteras ipsis Vat.lat.
+[17] Vat.lat. nisi BnF ms.
+[18] ex[c]ecati Vat.lat.
+[19] Vat.lat. exercellis BnF ms.?
+[20] om. Vat.lat.
+[21] Vat.lat; percucium BnF ms.
+[22] hiis scriptis Vat.lat.
+[23] [nostre] Vat.lat.
+[24] Vat.lat; eum uertatione BnF ms.
+[25] Vat.lat; datum BnF ms.
+[26] unitate[m]
+[27] nominatum BnF ms.
+[28] Vat.lat; quilibet BnF ms.
+[29] mandatio Vat.lat.
+[30] pernoctauerint Vat.lat.

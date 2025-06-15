@@ -1,0 +1,18 @@
+Record ID: 2606
+Date: 1314
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 65v-66r
+
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; partially checked against Carcassonne MS by Christine Barraliis
+Date Started: April 24, 2018
+Date Finished: October 24, 2022
+Reviewed RWD: March 12, 2023
+Problems or Queries:
+
+--
+Notes:
+[1] Idem = Ordinationes facte per dominum episcopum Carcassonensem (inferred from earlier entry in Carcassonne MS)
+[2] Title omitted in BnF and BAV
+[3] [et] Vat.lat.
+[4] et tunc ut et nunc ms BnF.

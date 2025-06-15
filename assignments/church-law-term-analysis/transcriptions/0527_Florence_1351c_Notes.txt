@@ -1,0 +1,29 @@
+Record ID: 0527
+Date: 1351 (1342x1352), given as 1346 in Mansi ed.
+Location: Florence
+Source: Mansi 26, coll. 23-74
+--
+Transcribed by: Gavin Robinson
+Date Started: 4 May 2018
+Date Finished: 10 Sep 2018
+Reviewed RWD: 16 Sept 2018
+Problems or Queries:
+
+--
+Notes:
+[1] 'ut dicit Beatissimus Augustinus printed in round brackets
+[2] 'quod absit' printed in round brackets
+[3] Printed with end of line hyphen as "deside-derantes".
+[4] ed. constiutti.
+[5] ed. conrra
+[6] ed. nonullos
+[7] ed. dictrictius 
+[8] Remaining text to be found in 0039_Florence_1327 (ed. Guardi & Guasti, Capitoli, II, 25 [III.8])
+[9] 'sicut accepimus' printed in round brackets
+[10] ed. 'saecularbus'
+[11] ed. 'inrerdicta'
+[12] ed. quemiibet
+[13] 'ut dictum est' printed in round brackets
+[14] 'ut supra dictum est' printed in round brackets
+[15] ed. quomolibet 
+[16] ed. eeclesiae

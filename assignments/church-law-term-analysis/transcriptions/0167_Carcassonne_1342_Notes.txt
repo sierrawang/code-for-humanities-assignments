@@ -1,0 +1,41 @@
+Record ID: 0167
+Date: 1342
+Location: Carcassonne
+Source: Initial transcription from BAV Vat Lat 9868; checked against Paris BnF lat 1613; then corrected against Carcassonne, Bibl. dioc. Ms. 3, f. 85r-89r 
+
+--
+Transcribed by: Jasmin Hauck; formatted May Peterson; corrected Christine Barralis
+Date Started: 19 June 2018
+Date Finished: 24 October 2022
+Reviewed RWD: 19 December 2022
+Problems or Queries:
+NB: Numbering added Christine Barralis
+
+--
+Notes:
+[1] facta Carcassonne ms; perfectum BnF
+[2] fac[t]ioso
+[3] et om. BnF ms
+[4] ab om. BnF ms
+[5] Carcassonne ms does not separate this chapter from the previous, but BnF ms separation is more sensible.
+[6] [ex]equiis
+[7] Carcassonne ms does not separate this chapter from the previous, but BnF ms separation is more sensible.
+[8] Carcassonne ms does not separate this chapter from the previous, but BnF ms separation is more sensible.
+[9] promulgatur om. BnF ms
+[10] subiacet Carcassonne ms; subiacent BnF ms
+[11] nisi Carcassonne ms; si non BnF ms
+[12] in place of the following text, BnF ms gives 'et sub curie episcopalis compulsione et coertione'.
+[13] Title omitted in BnF MS
+[14] pleb[e]s
+[15] [conceduntur]
+[16] chapter omitted in BnF MS
+[17] BnF ms does not separate this chapter from the preceding one, but Carcassonne ms separation is more sensible.
+[18] a[pp]licetur
+[19] [ut]
+[20] copyist skipped end of this chapter and beginning of next in BnF MS
+[21] [si]
+[22] BnF ms does not separate this chapter from the previous, but Carcassonne ms separation is more sensible.
+[23] [matrimonia]
+[24] [ue]nales
+[25] Item om. BnF ms. The BnF ms does not separate this chapter from the previous, but Carcassonne ms separation is more sensible.
+[26] ignotum Carcassonne and BAV mss; ignoti BnF

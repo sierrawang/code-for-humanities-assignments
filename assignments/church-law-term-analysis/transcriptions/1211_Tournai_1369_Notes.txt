@@ -1,0 +1,91 @@
+Record ID: 1211
+Date: 1369
+Location: Tournai
+Source: Paris, BnF Picardie 236, fol. 7-17
+--
+Transcribed by: Veronique Beaulande-Barraud; formatting by Lena Cavicchia
+Date Started: February 15, 2021
+Date Finished: March 6, 2021
+Reviewed RWD: March 7, 2021
+Problems or Queries:
+
+--
+Notes:
+[1] [Fol. 7] 
+[2] [sanctiones], Correction hypothétique de 'exauctiones'.
+[3] [Fol. 7v]
+[4] Correction de ‘fultim’ manifestement fautif. 
+[5] [juri], Lecture très douteuse ; on lit peut-être ‘jurii’ ce qui serait fautif. 
+[6] [Fol. 8]
+[7] [eos], Correction hypothétique de ‘es’.
+[8] Je trouve cette phrase très problématique mais je ne lis pas autre chose. 
+[9] [Fol. 8v]
+[10] Correction de ‘eorum’ manifestement fautif. 
+[11] Correction de ‘jurias’. 
+[12] [Fol. 9]
+[12a] MS. executorium ; corr. executoriis
+[13] [fine]
+[14] [velut]
+[15] Correction de ‘ferus’.
+[16] [oportet]
+[17] [Fol. 9v]
+[18] [Fol. 10]
+[19] [pro parti], On lit ‘per parti’ ou ‘per perti’ en un seul ou deux mots. Je propose cette correction. 
+[20] Correction de ‘pena’.
+[21] (sic)
+[22] [Fol. 10v]
+[23] eliga[n]t, On lit ‘eligat’ mais le pluriel semble plus logique. 
+[24] [altus]
+[25] ‘Qui celebrat missam mediante favore secundam focurus mortem valeat excerptare futuram’
+[26] [vacare]
+[27] ‘presbiteri cum vos veneri scio nocte vacare, mane fleo cum vos video missam celebrare’
+[28] ‘ve ve ve illi qui de nocte osculatus est vultum meretricis et in crastino filium virginis’
+[29] [Fol. 11]
+[30] [quonismodo], Restitution hypothétique , les signes abréviatifs ne correspondant pas. 
+[31] (sic)
+[32] [Fol. 11v]
+[33] [bone]
+[34] [Fol. 12]
+[35] [hec]
+[36] Ce statut porte le numéro 55 dans le manuscrit; le suivant porte le numéro 54.
+[37] [personaliter]
+[38] [Fol. 12v]
+[39] [.]
+[40] [Fol. 13]
+[41] [carsatus]
+[42] [exire]
+[43] [illis]
+[44] (sic)
+[45] [Fol. 13v]
+[46] [Fol. 14]
+[46a] ms. se questio; corr. sequestro
+[47] [Fol. 14v]
+[48] [quarum]
+[49] [sciveritis], Restitution par déduction. 
+[50] [reconciliationes]
+[51] [Fol. 15] 
+[52] (sic)
+[53] [procuratore]
+[54] [quam]
+[55] [permittionem]
+[56] [aliquot]
+[57] [eis]
+[58] [Fol. 15v]
+[59] [nisi]
+[60] [post], Le manuscrit porte ‘per’.
+[61] [aliquis]
+[62] [Fol. 16]
+[63] [fuerunt]
+[64] [que]
+[65] [ponitam]
+[65a] ms. convocationem; corr. contumacem
+[66] [benedictione], Restitution très hypothétique .
+[67] [breviculos]
+[68] [Fol. 16v]
+[69] [percetoribus]
+[70] [brevos]
+[71] [plurium]
+[72] (sic)
+[73] [Fol. 17]
+[74] [recte]
+[75] ‘absolvo te ab omni excommunicatione ista recte lata vel quam meruisti ob talem causam’

@@ -1,0 +1,36 @@
+Record ID: 0670
+Date: 1339
+Location: Langres
+Source: Paris, BnF Latin 995, fols. 105r-106r
+--
+Transcribed by: Christine Barralis
+Date Started: August 2022
+Date Finished: August 2022
+Reviewed RWD: September 2022
+Problems or Queries: Numbering added CB
+--
+Notes:
+[1] scribal error for 'quia'?
+[2] 'ut' uncertain
+[3] or 'excommunicationis maioris excommunicatam'?
+[4] 'in' uncertain
+[5] -ra- uncertain
+[6] -ionem uncertain
+[7] 'permittit' followed by large blank in MS
+[8] 'hac' followed by large blank in MS
+[9] -it uncertain
+[10] -is uncertain
+[11] 'inster' followed by large blank in MS
+[12] -remissionibus uncertain
+[13] 'levationi' uncertain
+[14] 'facte' uncertain
+[15] -a uncertain
+[16] -es uncertain
+[17] 'Quod nullus' uncertain
+[18] -irma- uncertain
+[19] -as uncertain
+[20] 'tantum' uncertain
+[21] -ssione uncertain
+[22] -sed uncertain
+[23] 'libertas' uncertain
+

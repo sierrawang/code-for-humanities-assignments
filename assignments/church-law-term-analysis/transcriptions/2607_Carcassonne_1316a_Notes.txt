@@ -1,0 +1,21 @@
+Record ID: 2607
+Date: 1316
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 66rv; Carcassonne, Bibliothèque diocésaine, ms. 3, fol. 69v
+
+--
+Transcribed by: Jasmin Hauck, with additions and corrections by Christine Barralis
+Date Started: April 24, 2018
+Date Finished: October 22, 2022
+Reviewed RWD: July 19, 2023
+Problems or Queries:
+
+--
+Notes:
+[1] Title omitted in BnF and BAV mss.
+[2] Chapter omitted in BnF and BAV mss.
+[3] Chapter omitted in BnF and BAV mss.
+[4] 'Item' omitted in BnF and BAV mss.
+[5] 'quod' om BAV ms.
+[6] deincens BnF ms.
+[7] sint BAV ms; sicut BnF ms.

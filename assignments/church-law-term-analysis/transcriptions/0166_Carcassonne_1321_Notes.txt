@@ -1,0 +1,59 @@
+Record ID: 0166
+Date: 1321
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 66r-70; corrected against BAV Vat Lat 9868, f. 276r-277r
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson
+Date Started: April 24, 2018
+Date Finished: May 2, 2018
+Reviewed RWD: 25 July 2018
+Problems or Queries:
+
+--
+Notes:
+[1] Title omitted in BnF and BAV mss.
+[2] [et]
+[3] subcappelnanos BnF ms.
+[4] [com]missa
+[5] promiss[i]o
+[6] in nostris in BnFms.
+[7] ex[i]gi
+[8] iure BnF ms.
+[9] fueri[n]t
+[10] presentum BnF ms.
+[11] ex BnF ms.
+[12] penitent[i]e
+[13] In BnF and BAV mss, this chapter is divided into four capitula; we here follow the more coherent structuring of the Carcassonne MS.
+[14] nostra nostra BnF ms.
+[15] deuesiis Carcassonne ms; deuesis BnF and BAV mss
+[16] ciragrillos BnF ms.
+[17] Reading uncertain.
+[18] adatemptantur BnF ms.
+[19] [et]
+[20] perem[p]tore
+[21] deuesiis Carcassonne ms; deuesis BnF and BAV mss
+[22] sirogrillos BnF ms.
+[23] prefatus BnF ms.
+[24] excurare BnF ms.
+[25] Vat.lat; ciuitate et dyocesi BnF ms.
+[26] tene[n]tur
+[27] Vat.lat. residendo BnF ms.
+[28] illos Vat.lat.
+[29] Vat.lat; residenciam BnF ms.
+[30] Vat.lat; civitate BnF ms.
+[31] uendant BnF ms.
+[32] Vat.lat; dat BnF ms.
+[33] adicientes Carcassonne ms; adiungentes BAV ms; adhibente BnF ms.
+[34] Vat.lat. inueniente BnF ms.
+[35] Vat.lat; ecclesie quod BnF ms.
+[36] Vat.lat. et eo BnF ms.
+[37] [et]
+[38] Vat.lat; ciuitate BnF ms.
+[39] alio[rum] Vat.lat.
+[40] Vat.lat; cras BnF ms.
+[41] Vat.lat; quoquo BnF ms.
+[42] Vat.lat; parrochianis BnF ms.
+[43] [in] Vat.lat.
+[44] infante[s]
+[45] Vat.lat; monitionis BnF ms.
+[46] ea[m]dem Vat.lat.

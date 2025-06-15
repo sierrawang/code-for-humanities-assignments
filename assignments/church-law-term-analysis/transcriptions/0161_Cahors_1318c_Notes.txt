@@ -1,0 +1,34 @@
+Record ID: 0161
+Date: 1318x1328
+Location: Cahors
+Source: BnF NAL 1917, fol. 61rB-62vA
+
+--
+Transcribed by: Christine Barralis
+Date Started: July 2022
+Date Finished: August 2022
+Reviewed RWD: August 7, 2022
+Problems or Queries:
+--
+Notes:
+[1] The (lengthy) first part of these statutes was copied from Rodez 1289 (ID 0201), cc. 1-19; this text has been omitted here since it was not yet possible to check this text against the Cahors MS for minor variants/modifications.
+[2] 'tatutum antiqui recensentes' remplaced by 'statuta antiqua renovantes', i.e. statutes added to 1289 synodal of Rodez.
+[3] 'in virtute' in Rodez 1289
+[4] 'servetur' in Rodez 1289
+[5] This phrase is included in article 1 in the text appended to Rodez 1289.
+[6] Clem 5.10.1
+[7] The Cahors text omits the chapter on absolution and the episcopal penitentiarius that precedes this chapter in the text appended to Rodez 1289.
+[8] The Cahors text omits the chapter on offerings that precedes this chapter in the text appended to Rodez 1289.
+[9] MS de qua legi, sic., for decalogi (correction from synodal de Tulle, BnF Latin 13326).
+[10] MS valeant; corr. from Rodez 1289
+[11] Rodez 1289 gives 'distingat' but 'distringat' (as found in Cahors MS) is the better reading
+[12] MS exedant
+[13] MS se; corrected from BnF Latin 13326
+[14] MS ullius; corrected nullius from Rodez 1289
+[15] From Christine Barralis: "Il est possible que cet article, qui ne figure pas dans les « statuta antiqua » publiés à Rodez en 1289 selon l’édition d’Avril, aient été rajoutés à ces « statuta antiqua » de Rodez entre 1289 et l’adoption du texte à Cahors en 1318. En effet, cet article figure (cap. I-18) à la suite des précédents (cap I-1 à I-17) dans la nouvelle publication de ce texte qui est faite à Rodez ca. 1336-1341 (ID 0202), en incluant à la suite (cap. I-19) la liste des cas d’excommunication majeure publiés par le pape Clément V lors du concile de Vienne."
+[16] Here follows the canons of the provincial council of Bourges of 1286; see ID 0313, cc. 1.1-36.
+[17] Here follows c. 1.37 the provincial council of Bourges of 1286 (ID 0313).
+[18] Here follows ID 1001, Constitutiones antique synodales ecclesie Caturicensis.
+
+
+

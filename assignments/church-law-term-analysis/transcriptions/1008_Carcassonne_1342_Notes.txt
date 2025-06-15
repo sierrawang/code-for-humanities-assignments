@@ -1,0 +1,42 @@
+Record ID: 1008
+Date: 1342
+Location: Carcassonne
+Source: Paris, BnF lat. 1613, f. 84v-85r (defective text in c. 4); Carcassonne, Bibl. dioc. Ms. 3, f. 84v-85r
+
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; partially checked against Carcassonne MS by Christine Barralis
+Date Started: 30 August 2018
+Date Finished: 30 August 2018
+Reviewed RWD: 19 July 2023
+Problems or Queries: Transcription of c. 4 remains to be completed from Carcassonne ms
+
+--
+Notes:
+[1] intrinsicus Vat.lat.
+[2] (quam ... a) om. Vat.lat
+[3] habitus Vat.lat.
+[4] (In maximum ... tam) om.Vat.lat.
+[5] [m]antonibus
+[6] Vat.lat.
+[7] protendum Vat.lat.
+[8] suo Vat.lat.
+[9] om.Vat.lat.
+[10] archipresbiteri Vat.lat.
+[11] Vat.lat; sacerdotale ms.
+[12] ordini Vat.lat.
+[13] confessores Vat.lat.
+[14] domesticis Vat.lat.
+[15] [uel]
+[16] Vat.lat.
+[17] axaminabunt ms.
+[18] experimenti Vat.lat.
+[19] didiscimus ms.
+[20] nostrarum Vat.lat.
+[21] viris Vat.lat.
+[22] ecclesiasticis Vat.lat.
+[23] BnF (followed by BAV ms) carries on with remaining text, but this is clearly a scribal error; the Carcassonne ms gives an entirely different (and much more sensible) text from this point on, but it has not yet been transcribed.
+[24] custodia[n]t Vat.lat.
+[25] porte[n]t
+[26] Vat.lat.
+[27] Vat.lat., epdomada ms.
+[28] Vat.lat; missis ms.

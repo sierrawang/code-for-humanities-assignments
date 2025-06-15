@@ -1,0 +1,24 @@
+Record ID: 2605
+Date: 1314
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 65rv
+
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; partially checked against Carcassonne MS by Christine Barraliis
+Date Started: April 24, 2018
+Date Finished: October 24, 2022
+Reviewed RWD: March 12, 2023
+Problems or Queries:
+
+--
+Notes:
+[1] Idem = Ordinationes facte per dominum episcopum Carcassonensem (inferred from earlier entry in Carcassonne MS)
+[2] Title omitted in BnF and BAV
+[3] Vat.lat. comparabunt
+[4] Vat.lat; sufficientes ms  BnF.
+[5] manuum ms BnF.
+[6] rural[i]um Vat.lat.
+[7] Vat.lat; hominibus ms BnF.
+[8] uolueru[n]t
+[9] car[ita]tiue Vat.lat.
+[10] habebimus Vat.lat.

@@ -1,0 +1,50 @@
+Record ID: 0786
+Date: 1335
+Location: Carcassonne
+Source: Paris BnF lat 1613, fol 77rv; Vatican, BAV, Vat Lat 9868, f. 279rv (partial 18th-c copy of Paris MS); Carcassonne, Bib dioc, ms. 3, fol. 79v-80r
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; further corrections by Christine Barralis
+Date Started: April 24, 2018
+Date Finished: May 3, 2018
+Reviewed RWD: July 19, 2023
+Problems or Queries:
+
+
+--
+Notes:
+[1] Title omitted in BnF and BAV mss.
+[2] Vat.lat. iura (instead of ut qui) BnF ms.
+[3] Vat.lat; in statuta BnF ms.
+[4] Vat.lat; quod BnF ms.
+[5] dis[c]ipline
+[6] Vat.lat; famulares BnF ms.
+[7] [qui] Vat.lat.
+[8] Vat.lat.; commaciens BnF ms.
+[9] Vat.lat; procurent BnF ms.
+[10] [et]
+[11] Vat.lat; pauperibus BnF ms.
+[12] Vat.lat; inhonestas BnF ms.
+[13] scriptis in Vat.lat.
+[14] [et]
+[15] rector[es] Vat.lat.
+[16] dignitatos Vat.lat.
+[17] ab[s]tineant
+[18] Vat.lat; dicaturus BnF ms.
+[19] naufragiu[m]
+[20] Vat.lat; retarcerent BnF ms.
+[21] Vat.lat; alias BnF ms.
+[22] potuerint Vat.lat.
+[23] Vat.lat; posimus BnF ms.
+[24] Carcassonne MS separates following text into a distinct statute, but we follow here the more coherent structure of the BnF ms.
+[25] Vat.lat; prohibere altari BnF ms.
+[26] statu[tu]m Vat.lat.
+[27] parrochiali[bu]s Vat.lat.
+[28] plubicent BnF ms.
+[29] sua Vat.lat.
+[30] singulos BnF ms.
+[31] capelnanis BnF ms.
+[32] [et]
+[33] citatori[i]s
+[34] contentu BnF ms.
+[35] grauite[r]
+[36] punia[n]tur; punientur Vat.lat.

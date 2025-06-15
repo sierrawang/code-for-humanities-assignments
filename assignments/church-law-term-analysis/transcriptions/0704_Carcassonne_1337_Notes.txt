@@ -1,0 +1,17 @@
+Record ID: 0704
+Date: 1337
+Location: Carcassonne
+Source: Paris BnF lat 1613, fol. 81v; Carcassonne, Bibliothèque diocésaine, ms. 3, fol. 80r
+
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; corrected against Carcassonne MS by Christine Barralis
+Date Started: 19 June 2018
+Date Finished: 25 June 2018
+Reviewed RWD: 19 July 2023
+Problems or Queries:
+
+--
+Notes:
+[1] eiusdem om. BnF ms
+[2] editum BnF ms
+[3] The following text is presented as a separate chapter in Carcassonne ms; we follow here the more coherent structure of BnF ms

@@ -1,0 +1,15 @@
+Record ID: 0512
+Date: 1352
+Location: Reims
+Source: Paris BnF lat 1598, fol. 55r-56r 
+--
+Transcribed by: Christine Barralis
+Date Started: August 2022
+Date Finished: August 2022
+Reviewed RWD: Sept 2022
+Problems or Queries:
+--
+Notes:
+[1]  In the Paris MS, these statutes present themselves as a continuation of the synodal of Reims of Guillaume de Trie, of which they form the 6th precept of the 14th locus.
+[2] Note from Christine Barralis: "Le scribe a mal placé le signe rouge signalant le changement de cas réservé : il l’a mis sur le mot 'excepto', mais il est clair que les mots 'pactam contra naturam' vont avec les mots les suivant et non pas avec les mots les précédant."
+[3] Note from Christine Barralis: "Le scribe a placé par erreur sur ce mot le signe rouge signalant un changement de cas réservé, alors qu’il est évident que les mots suivants continuent la phrase précédente."

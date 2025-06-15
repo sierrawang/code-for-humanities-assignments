@@ -1,0 +1,39 @@
+Record ID: 2593
+Date: 1311
+Location: Carcassonne
+Source: Paris BnF lat 1613, fol. 61v-62r; BAV Vat Lat 9868, fol. 273v-274r; Carcassonne, Bibliothèque diocésaine, ms. 3, fol. 58rv
+
+--
+Transcribed by: Jasmin Hauck (completed 25 April 2018), with readings of Paris MS checked against Vatican transcription; formatted by May Peterson; then checked by Christine Barralis against readings of Carcassonne MS.
+Date Started: April 24, 2018
+Date Finished: October 27, 2022
+Reviewed RWD: December 19, 2022
+Problems or Queries:
+
+--
+Notes:
+[1] Title om. mss. BnF and BAV
+[2] Vat.lat; quacumque ms BnF.
+[3] Vat.lat; rectores ms BnF.
+[4] Vat.lat., abunde ms BnF.
+[5] empte Vat.lat.
+[6] in Mss. BnF and BAV, the chapter stops after 'talari and clausa' and the remainder constitutes the beginning of a new chapter. Here the more logical Carcassonne numbering is followed.
+[7] capicium ms BnF.
+[8] turonenses Vat.lat.
+[9] in Mss. BnF and BAV, the chapter runs to 'sunt hoc negligentes' and then a new chapter begins. Here the more logical Carcassonne numbering is followed.
+[10] tamen Vat.lat.
+[11] preci[pi]mus
+[12] [pena] Vat.lat.
+[13] Pro defectu Vat.lat.
+[14] abluat mss BnF and BAV
+[15] ad ms. BnF; om. Vat.lat.
+[16] in Mss. BnF and BAV, this chapter is divided in two, with the second beginning 'Idcirco statuimus'. Here the more logical Carcassonne numbering is followed.
+[17] vocanda ms BnF.
+[18] sacerdote parrochiali Vat.lat.
+[19] a testamenta mss BnF and BAV
+[20] notariis ms BnF.
+[21] aliter vero mss BnF and BAV
+[22] Vat.lat; periculus ms BnF.
+[23] Vat.lat; occidunt ms BnF.
+[24] necessitates Vat.lat; necessitas ms BnF.
+[25] line space between sections in ms BnF

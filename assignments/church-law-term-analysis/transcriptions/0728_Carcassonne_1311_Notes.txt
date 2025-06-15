@@ -1,0 +1,213 @@
+Record ID: 0728
+Date: 1311
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 56r-61v; corrected against BAV Vat Lat 9868, f. 270v-274v; Carcassonne, Bibliothèque diocésaine, ms. 3, fol. 59r-64r (partial)
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; numbering corrected by Christine Barralis against Carcassonne MS, with partial text corrections as well
+Date Started: April 24, 2018
+Date Finished: October 24, 2022
+Reviewed RWD: December 19, 2022
+Problems or Queries:
+
+
+--
+Notes:
+[1] Title omitted in BnF and BAV mss.
+[3] Vat.lat; nascerent ms BnF.
+[4] p[er]missione
+[5] diuinam ms BnF.
+[6] Ad commori... omnium Vat.lat.
+[7] nostro ms.
+[8] Vat.lat; Celebrandi ms BnF.
+[9] Vat.lat; infrascriptis ms BnF.
+[10] milla ms.
+[11] Vat.lat; subiciditur ms BnF.
+[12] mandante[s]
+[13] Vat.lat; infrascriptis ms BnF.
+[14] inch[o]ando
+[15] ling[u]a
+[16] Vat.lat. prout cuiusque ms BnF.
+[17] Vat.lat. sacerdotis parocchialis ms BnF.
+[18] Vat.lat; ecclesias ms BnF.
+[19] Rubric omitted in BnF and BAV mss.
+[20] nisi Vat.lat.
+[21] Vat.lat; redicarint ms BnF.
+[22] dierum ms BnF.
+[23] mens[i]um
+[24] Vat.lat; destinerint ms BnF.
+[25] s[c]olis Vat.lat.
+[26] facti ms BnF; sibi Vat.lat.
+[27] ecientes ms BnF.
+[28] ter[r]is
+[29] fenebre[m] Vat.lat.
+[30] tempus ms. Carcassonne; tenus ms BnF; tempus ms BAV
+[31] mss Carcassonne and Vat.lat; alia ms BnF.
+[32] quocumque mss BnF and BAV; quecumque ms Carcassonne
+[33] sententiam incurrant ms Carcassonne; sententiam mss BnF and BAV
+[34] vel ms Carcassonne; om. ms BnF; et ms Vat.lat.
+[35] incurrant mss Carcassonne and BAV; incurrunt BAV
+[36] Vat.lat; facendes ms BnF.
+[37] conventum Vat.lat.
+[38] Vat.lat. deliberates ms BnF.
+[39] Exiit mss Carcassonne and  BnF ; ex ut, BAV; this is the bull Exiit qui seminat (14 Aug 1279).
+[40] Francisci ms Carcassonne; Bonifacii mss BnF and BAV
+[41] sit excommunicatus, sunt similiter excommunicati MS Carcassonne; sic excommunicati sunt similiter excommunicati MS BnF; sic excommunicati sit similiter BAV
+[42] Vat.lat; vt ms BnF.
+[43] Vat.lat; innotatummmmmmm ms BnF.
+[44] religionis ms.
+[45] Vat.lat; quisuis ms BnF.
+[46] Vat.lat; aliis ms BnF.
+[47] et Vat.lat.
+[48] alicui Vat.lat.
+[49] fu[er]it; sit Vat.lat.
+[50] Vat.lat; muniti ms BnF.
+[51] Vat.lat; ipsi ms BnF.
+[52] maturam ms BnF.
+[53] [et]
+[54] recreationis Vat. Lat; gap in the ms BnF
+[55] Cap omitted in Carcassonne MS (perhaps a later addition to the statutes)
+[56] peccaniam ms BnF.
+[57] Vat.lat; qui ms BnF.
+[58] dictis ms BnF.
+[59] Cap omitted in Carcassonne MS (perhaps a later addition to the statutes)
+[60] Vat. Lat., gap in the ms BnF.
+[61] specialem ms BnF.
+[62] seruisio ms BnF; seminario Vat.lat.
+[63] Cap omitted in Carcassonne MS (perhaps a later addition to the statutes)
+[64] Cap omitted in Carcassonne MS (perhaps a later addition to the statutes)
+[65] parrochianis suis Vat.lat.
+[66] Cap omitted in Carcassonne MS (perhaps a later addition to the statutes)
+[67] medicinam ms BnF.
+[68] chatenus ms BnF.
+[69] Rubric given in MS Carcassonne; ms BnF gives 'Casus episcopales' in marg.
+[70] Vat.lat; factores ms BnF.
+[71] Vat.lat; fuerunt ms BnF.
+[72] Vat.lat; peruenerint ms BnF.
+[73] nisi Vat.lat.
+[74] adeuxerint ms; adiexerint Vat.lat.
+[75] [de] Vat.lat.
+[76] Vat.lat; animas diuisione ms BnF.
+[77] Vat.lat; si predictis ms BnF.
+[78] Vat.lat; defecerunt ms BnF.
+[79] Vat.lat; fiant ms BnF.
+[80] impe[n]dunt Vat.lat.
+[81] Vat.lat; romani ms BnF.
+[82] Vat.lat; esset ms BnF.
+[83] p[er] al[i]um
+[84] [utuntur] Vat.lat.
+[85] Vat.lat; litteris apostolicis ms BnF.
+[86] Vat.lat. separint ms BnF.
+[87] vel qui Vat.lat.
+[88] Vat.lat; receptauerunt ms BnF.
+[89] Vat.lat; defensauerunt ms BnF.
+[90] rectore[s] Vat.lat.
+[91] Vat.lat; supra ms BnF.
+[92] Vat.lat; negligere ms BnF.
+[93] Vat.lat; quibus ms BnF.
+[94] Vat.lat; condessit ms BnF
+[95] Vat.lat; mandeant ms BnF.
+[96] Vat.lat; iuuiameunt ms BnF.
+[97] Vat.lat; consilium ms BnF.
+[98] predecessorum ms BnF.
+[99] Carcassonne MS does not separate this chapter from the previous, but BnF separation here is more logical.
+[100] literrarum ms. BnF
+[101] li[ti]gandum Vat.lat.
+[102] Vat.lat; quoram ms BnF.
+[103] The rest of this chapter is presented as a separate chapter in the Carcassonne MS.
+[104] Vat.lat; emeant ms BnF.
+[105] iurum ms BnF.
+[106] Vat.lat; faciant ms BnF.
+[107] iudica[re]
+[108] cartulari[i]s Vat.lat.
+[109] [menses] Vat.lat.
+[110] Vat.lat; effrautores ms BnF.
+[111] [ex]torquent Vat.lat.
+[112] excommunicati MS Carcassonne; excommunicate MS BnF
+[113] Vat.lat; a ms BnF.
+[114] uitatis ms BnF.
+[115] Vat.lat; delinquerit ms BnF.
+[116] pignorabtiones MS BnF
+[117] consedunt MS BnF
+[118] Vat.lat; excedunt ms BnF.
+[119] per facta ms BnF.
+[120] alicos ms BnF
+[121] statu ms BnF
+[122] preuulgata ms BnF.
+[123] communicare ms Carcassonne; comuncare ms BnF; communciare ms BAV
+[124] cap. om. mss BnF and BAV.
+[125] ecclesiasticis ms BnF.
+[126] qu[i] regalia[m]
+[127] dirigendos ms BnF
+[128] muttandi ms BnF; irritari Vat.lat.
+[129] persipiant ms BnF
+[130] Vat.lat; ausissinos ms BnF.
+[131] Vat.lat; hec ms BnF.
+[132] Vat.lat; ausissinos ms BnF.
+[133] nau[i]gantes
+[134] Item om. ms Carcassonne. The Carcassonne MS does not separate this chapter from the previous one, but the BnF separation is more logical.
+[135] dictum est Vat.lat.
+[136] Vat.lat; poterint ms BnF.
+[137] Vat.lat; feci facturi ms BnF.
+[138] Vat.lat; beneficii ms BnF.
+[139] consequenter ms BnF.
+[140] [ut] Vat.lat.
+[141] Vat.lat; ordinarorum ms BnF.
+[142] Vat.lat; pacis ms BnF.
+[143] Vat.lat; comede ms BnF.
+[144] cap. om. MS Carcassonne; perhaps a later addition
+[145] cap. om. MS Carcassonne; perhaps a later addition
+[146] om. Vat.lat.
+[147] quomodolibet ms BAV; comodolibet ms BnF
+[148] prohibuerint Vat.lat.
+[149] celebra[n]tur; celebrantur ut Vat.lat.
+[150] celeb[r]antibus
+[151] [in] Vat.lat.
+[152] Vat.lat; nominatis ms BnF.
+[153] apostolica[m]
+[154] Rubric in marg. ms. Carcassonne; om. mss. BnF and BAV
+[155] episcopis ms BnF.
+[156] In the Carcassonne MS this chapter is not separated from the previous one. In the BnF MS, the text of cap. III.3 was inserted after the first seven words of III.2, which then continues as a separate chapter after III.3. The text of the Carcassonne MS is followed here. But since III.3 was added to the margin of the Carcassonne MS (at a later date), the error in the BnF MS probably results from a scribal error in determining where to insert the added text.
+[157] Ut mss BnF and Carcassonne; Item ms BAV. 
+[158] synodale ms Carcassonne; sinodale ms BnF; sinodaliter BAV. Following this word, mss BnF and BAV insert the text of cap. III.3, followed by 'Item' and the remainder of cap. III.2.
+[159] dominicis mss Carcassonne and BAV; dominiceis ms BnF.
+[160] aliis precipuis ms. Carcassonne; alis precipius mss. BnF and BAV
+[161] testamenta ms Carcassonne; et conficiendi mss BnF and BAV
+[162] insturnenta ms BnF
+[163] nescesitas mss BnF and BAV
+[164] exhigat ms Carcassonne
+[165] est ms Carcassonne; et mss BnF and BAV
+[166] sententia mss BnF and BAV
+[167] cap. add. in marg. ms Carcassonne
+[168] illi… uiolenter, ms Carcassonne; replaced by 'quod nullus extrahat uiolenter de ecclesiis confugientes ad ipsas' mss. BnF and BAV
+[169] permissis mss BnF and BAV
+[170] est…innoditus, ms Carcassonne ; replaced with 'aliqui faciens contrarium est excommunicatus ipso facto' mss BnF and BAV
+[171] illi ms. Carcassonne; laici mss BnF and BAV
+[172] usurari ms BnF
+[173] inscurmenta ms BnF.
+[174] sulutorum ms BnF.
+[175] excommunicari ms BnF
+[176] cap. add. in marg. ms Carcassonne
+[177] quicumque om. mss. BnF and BAV
+[178] qui om. mss. BnF and Vat.lat.
+[179] in ms. Carcassonne; et mss BnF and BAV
+[180] excommunicationibus ms BnF.
+[181] audeant..pignorare ms. Carcassonne; talliant uel pignorant mss BnF and BAV
+[182] episcopali[s]
+[183] uel eius curie...deducatur om. ms Carcassonne
+[184] sunt… suspensi, ms Carcassonne ; replaced by 'sunt suspensi ab ingressuecclesie' in mss. BnF and BAV
+[185] emendaverunt ms BnF.
+[186] Vat.lat; excommunicatus ms BnF.
+[187] [licentia]; peccator ms BnF.
+[188] Vat.lat; depobulatores ms BnF.
+[189] Vat.lat; dicturna ms BnF.
+[190] Vat.lat. faciant ms BnF.
+[191] excusatores mss BnF and BAV
+[192] dederint Vat.lat.
+[193] nodum ms BnF.
+[194] palam Vat.lat.
+[195] cap. om. ms. Carcassonne
+[196] Vat.lat; falsunt ms BnF.
+[197] cap. om. ms. Carcassonne
+[198] cap. om. ms. Carcassonne
+[199] [con]trahunt
+[200] ipsi Vat.lat.

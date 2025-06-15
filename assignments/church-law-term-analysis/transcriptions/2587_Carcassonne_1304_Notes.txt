@@ -1,0 +1,19 @@
+Record ID: 2587
+Date: 1304
+Location: Carcassonne
+Source: Paris BnF lat 1613, fol. 53r; BAV Vat Lat 9868, f. 270r; Carcassonne, Bibliothèque diocésaine, ms. 3, fol. 54v 
+
+--
+Transcribed by: Jasmin Hauck (completed 25 April 2018), with readings of Paris MS checked against Vatican transcription; formatted by May Peterson; then checked by Christine Barralis against readings of Carcassonne MS
+Date Started: April 24, 2018
+Date Finished: October 27, 2022
+Reviewed RWD: December 18, 2022
+Problems or Queries:
+
+--
+Notes:
+[1] Vat.lat; pecuniam BnF ms.
+[2] tamen Vat.lat.
+[3] licebit Vat.lat.
+[4] om. Vat.lat.
+[5] In the Carcassonne MS, the statute is preceded by an incipit and the beginnign and end of the text are reversed: Anno domini M. CCC. quarto uidelicet die martis post octauas pasche domini intitulata vii° ydus aprilis, reuerendus pater in Christo dominus  P. de Ruppeforti dei gratia episcopus Carcassonensis in synodo per eum celebrata in sua Carcassonensis ecclesia publica legittima monitione premissa, tulit in scriptis sententiam interdicti contra omnes et singulos rectores ecclesiarum sue dyocesis qui uendent redditus ecclesiarum suarum ad peccuniam absque nostra licentia speciali exceptis tantum carnalagiis que congruo tempore, scilicet quando carnalagia nostra uendentur, possint ad peccuniam uendere.

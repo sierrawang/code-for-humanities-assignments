@@ -1,0 +1,48 @@
+Record ID: 0101
+Date: 1386c (1386x1387)
+Location: Prague
+Source: Polc, Prazske Synody, 234-237
+--
+Transcribed by: Medina Husakovic
+Date Started: 8/1/18
+Date Finished: 8/1/18
+Reviewed RWD: 16 Aug 2018
+Problems or Queries: None
+
+--
+Notes:
+[1] ed. NT
+[2] Text variant (IPS): Primo mandatur, ut festum Visitacionis sancte Marie in die sancti Vitalis solempniter celebretur.
+[3] Text variant (Fas): Mandatur de Visitatione beatae Virginis: in die Vitalis solemniter celebretur.
+[4] ed. N
+[5] Text variant (IPS): Item quociens in divinis officiis nomen Iesu Christi vel nomen sancte virginis Marie nominatur, tociens flectentes genua et adorantes habent xl dies indulgencie.
+[6] ed. T
+[7] Text variant (Fas): Item quociescumque in divinis nomen Domini nostri Iesu Christi, vel nomen virginis Mariae nominatur, qui flectit genua et adoraverit, habet quadraginta dies indulgentiarum. 
+[8] ed. NT
+[9] Text variant (IPS): Item rogat dominus et hortatur, ut plenani et alii presbiteri ieiunent adventum, et si non habent pisces, comedant lacticinia. 
+[10] Text variant (Fas): Item rogat et hortatur, ut omnes presbyteri ieiunent in adventu, et qui carent piscibus, utantur lacticiniis. 
+[11] ed. NT
+[12] Text variant (PS): Item dedicacio ecclesie <Pragensis in die> sancti Remigii. 
+[13] ed. T
+[14] Text variant (IPS): Item revocantur omnes peticiones qui date fuerant usque <ad> hodiernam diem preter hostiarias. 
+[15] ed. T
+[16] Text variant (IPS): Item omnes confessores interrogent confitentes de usuris et an sciant aliquos usurarios, quos remittant ad nos. 
+[17] Text variant (Fas): Item qui sciunt aliquos usurarios mittant eos ad nos. 
+[18] ed. T
+[19] ed. <apostolica>
+[20] Text variant (PS): Item revocate sunt omnes indulgencie et gracie Pilei. 
+[21] Text variant (Fas): Item gratiae Pilei revocantur. 
+[22] ed. T
+[23] Text variant (IPS): Item statutum istud publicetur plebanis, et propter hoc decani faciant convocaciones infra unum mensem et dent copias omnibus plebanis. 
+[24] ed. N
+[25] Text variant (Fas): Item quod non utantur larvis in ludis ecclesiarum. 
+[26] ed. T
+[27] Text variant (PS): Item nullus transeat colendisatum de nocte nisi in die in vigilia Nativitatis Domini. 
+[28] Text variant (Fas): Item quod colledae non fiant in nocte, sed adhuc illucescente die. 
+[29] ed. T
+[30] Text variant (Fas): Item quod non fiant sufflationes in consecratione corporis Christi, nisi tantummodo verba ad hoc pertinentia. 
+[31] Text variant (Fas): Item quicumque porrexerint <manus> ad fabricum ecclesiae Pragensis, habent decem annos et decem quadragenas. 
+Hoc durabit per tres annos. 
+[32] Text variant (Fas): Item qui absentant se ab ecclesiis, conceditur patronis potestas compellendi eos etc. 
+
+

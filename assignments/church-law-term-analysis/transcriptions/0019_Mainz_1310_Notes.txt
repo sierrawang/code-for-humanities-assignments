@@ -1,0 +1,289 @@
+Record ID: 0019
+Date: 1310
+Location: Mainz
+Source: Hartzheim IV, 174-223
+--
+Transcribed by: Gavin Robinson
+Date Started: 4 May 2018
+Date Finished: 10 Sep 2018
+Reviewed RWD: 14 Sep 2018
+Problems or Queries:
+
+--
+Notes:
+[1] Open round brackets.
+[2] Close round brackets.
+[3] ed. verisimiter 
+[4] Open round brackets.
+[5] Close round brackets.
+[6] "Summarius. Laici simpliciter; Clerici autem explicite credant, quod Romana credit Ecclesia."
+[7] Open square bracket here but no matching closing bracket.
+[8] No title for this text in ed. "Summarius. Ne quis praesumat praedicare, quod Sacerdos in mortali peccato non possit conficere: solvere vel ligare. Ex Concilio Asschaffenburgensi Domini Petri Archi-Episcopi Moguntini contra haereticos."
+[9] Ed. Sacrmenta
+[10] "Summarius. Canones et Constitutiones Provinciales Clerici sciant. Ex Concilio, ut supra."
+[11] No heading. "Summarius sequentis Capituli. Statuta provincialia habeantur in Choris Cathedralium et Collegiatarum Ecclesiarum, et in Synodis omni anno legantur. Statutum D. Petri Archi-Episcopi Moguntini."
+[12] "Summarius. Nullius Legati vel Subdelegati citatio, vel processus admittatur, nisi a fine Dioecesis ad unam dietam. Ex Concilio D. Petri Archi-Episcopi Moguntinensis."
+[13] "Ex Concilio D. Petri."
+[14] "Summarius. Appellationes Sedis Moguntinensis subditis Suffraganeorum possunt committi. Ex Concilio Fritzlariensi D. Siffridi Archi-Episcopi Moguntini."
+[15] "Ex Concilio Moguntino D. Petri Archi-Episcopi Moguntinensis."
+[16] No heading. "Summarius. Male consuetudines in Ecclesia deleantur. Ex eodem Concilio D. Petri Archi-Episcopi."
+[17] "Summarius. Vicarii in Spiritualibus ad sacros Ordines, et Prelati ad Beneficiorum investituram neminem admittant, cujus patres, avi, aut progenitores Clericum captivaverunt, aut mutilarunt. Ex Concilio D. Petri Archi-Episcopi Moguntinensis."
+[18] "Ex Concilio D. Petri Moguntini, ut supra."
+[19] "Summarius. Ordinandus, et ante examinis admissionem sit recenter, et de impedimentis Ordinationum [si quod habeat] confessus, et ad Vicariam nonnisi perpetuam ordinetur. Ex Concilio Moguntino D. Gerhardi."
+[20] "?" printed here.
+[21] "?" printed here.
+[22] "Summarius. Nemo ante vigesimum quintum ad Curatum investiatur beneficium. Ex Concilio Moguntino D. Petri."
+[23] "Summarius. Illegitime natus, neque ad Ordines, neque ad Beneficium sine dispensatione admittatur. Ex Concilio D. Petri Moguntin."
+[24] "Summarius. Advene et ignoti ad Ordines vel Officium sine literis non admittantur. Ex Concilio Fritzlariensi D. Siffridi."
+[25] "Summarius. Nemo inhibeat; quominus appelletur."
+[26] No heading. "Summarius. Archi-Diaconi in certis causis usque ad XX. solidorum summam; Dioecesani in reliquis cognoscunt."
+[27] "Summarius. Sufficiens et honesta provisio fiat Vicariis de proventibus Ecclesie. Ex Concilio Fritzlariensi D. Siffridi."
+[28] ed. suiis 
+[29] No heading. "Summarius. Sine legitima causa Vicarius non amoveatur. Ex Concilio Aschaffenburgensi Domini Gerhardi."
+[30] Open square brackets.
+[31] Close square brackets.
+[32] No heading. "Ex Concilio Fritzlariensi D. Siffridi. Summarius. Ne conducti Sacerdotes ponantur ad beneficia, sed Vicarii perpetui auctoritate Superioris."
+[33] "Summarius. Legatis et Subdelegatis Rescriptorum suorum fines excedentibus, et invocationi brachii secularis, quam faciunt Sacerdotes, parere non tenentur. Ex Concilio Fritzlariensi D. Gerhardi. MS. Helmstadiense ex Concilio Aschaffenburgensi."
+[34] "Summarius. Plebanus et ipse reverenter ad infirmos Eucharistiam deferat, et plebem suam, quomodo tunc et in elevatione Altaris veneranda sit, edoceat. Ex Concilio Fritzlariensi D. Siffridi."
+[35] Open round brackets.
+[36] Close round brackets.
+[37] No heading. "Summarius. Episcopi in summis festis per se, vel alios predicent, et in Ecclesiis suis Cathedralibus nisi necessitate impediti, celebrent. Ex eodem Concilio quo supra."
+[38] No heading. "summarius. Singuli Episcopi pro Clericis incorrigibilibus carceres habeant juxta Ecclesiam suam Cathedralem. Ex eodem Concilio quo supra."
+[39] "summarius. Capellani nobilium in arcibus residentes: sub suspensionis et excommunicationis poena, Episcopo vel Archi-Diacono obedientiam praestent: ad Synodos veniant, et ubi persona Ecclesiastica captiva vel preda spiritualium personarum detinetur, a Divinis abstineant. Ex eodem Concilio eusdem D. Siffridi."
+[40] "plebanos"? unclear.
+[41] No heading. "summarius. Canonici solitam reverentiam Praelatis suis subtrahentes exclusione a consortio Capituli, et ad arbitrium Episcopi puniantur. Ipsis autem temere se Capitulo ingerentibus, usque ad satisfactionem cessetur a Divinis. Prelati autem et Canonici, qui praedictos transgressores ad Capitulum sine emendatione admittunt, excommunicentur. Ex Concilio Aschaffenburgensi D. Gerhardi."
+[42] Ed. Eccesiarum 
+[43] Open round brackets.
+[44] Close round brackets.
+[46] No heading. "Summarius. Ecclesiastici fideliter orent Deum pro Rege Romano, Regina et liberis suis. Ex Concilio Moguntin. D. Petri."
+[47] "Summarius. Sacerdotes non nisi pro certis personis postulare permittuntur. Ex Concilio Fritzlariensi D. Siffridi."
+[48] No heading. "Summarius. Religiosi tamen in Monasteriorum suorum causis advocare permittuntur. Statutum D. Wernheri."
+[49] Open round brackets.
+[50] Close round brackets.
+[51] No heading. "Summarius. Monachi neque in Ecclesiastico neque civili judicio, nisi pro Monasterio suo advocare praesumant. Ex Concilio D Wernheri."
+[52] "Summarius. Metus amissionis rerum aut corporis, nisi legitime probatus, Clericos, quominus superiorum mandata exequantur, non excusat, in non faciendis autem nullus omnino excusat. Ex Concilio Fritzlariensi D. Siffridi."
+[54] No heading. "Summarius. Excommunicationis, suspensionis, vel interdicti absolutionem, vel revocationem extorquens, excommunicatus est ipso jure. Ex Concilio Domini Petri."
+[55] "Summarius. Actioni cessurus justa de causa, et in judicis presentia ac licentia cedat, se quoque vere cedere juret. Ex Concilio quo supra."
+[56] Open round brackets.
+[57] Close round brackets.
+[58] "Summarius. Qui propter crudelitatem vel potentiam commode citari non possunt, in eorum Parochia citentur. Quod si fieri non potest, et id legitime probari, sunt quoque citandi infra unam dietam a Cathedrali, in eadem tribus Dominicis, alioquin ad tres quindenas in ambone publice citentur. Ex Concilio Fritzlariensi D. Siffridi."
+[59] No heading. "Summarius. Reus per se vel alium nuncios judiciales quomodocunque offendens pro convicto habetur. Actor in reconventione super actione instituta amplius non auditur, uterque vero et omnes, taliae perpetrantes ad satisfaciendum judicibus et laeso excommunicatione compelluntur. Ex Concilio ubi supra."
+[61] "Summarius. Actor Clericum malitiose trahens ad seculare iudicium, postea coram Ecclesiastico etiam judicio non auditur. Judex autem, qui citationem decernit, excommunicetur. Ex Concilio Moguntino D. Gerhardi."
+[62] No heading. "Summarius. Pro nulla re persona Ecclesiastica ad judicium trahatur seculare. Ex Concilio Aschaffenburgensi D. Gerhardi."
+[63] Open round brackets.
+[64] Close round brackets.
+[65] No heading. "summarius. Judices Ecclesiastici de causis mere laicis se non intromittant. Ex eodem Concilio, quo supra."
+[66] Open round brackets.
+[67] Close round brackets.
+[68] "summarius. Redditus Parochialis Ecclesie vel Capelle vacantis, a duobus ejusdem Capituli Presbyteris collecti, victori assignentur, ejusdem autem investitor, sub poena restitutionis dupli, et privationis investiendi in perpetuum, nihil de eisdem sibi usurpet. Ex Concilio Moguntino. Moguntinum impr. Aschaffenburgensi, et Lunig."
+[70] Open round brackets.
+[71] Close round brackets.
+[73] "Summarius. Monachorum, et Canonicorum regularium, vel secularium contra Canonicas sanctiones confederatio, sive fiat interposita cautione, sive sine ea, neminem obligat, ipsi autem conjurantes sunt excommunicati; et detecta conjuratione, hi quidem a Monasteriis suis excludendi, illi vero Officiis et Beneficiis suis privandi. Ex Concilio Fritzlariensi D. Siffridi."
+[74] ed. quibuscuque
+[75] "Summarius. Appellantes a sententia diffinitiva, si infra duos menses appellationem non persequuntur, ab inferioribus judicibus in pristinas sententias retrudantur, eisque stare cogantur, donec vel appellationem persequantur, vel pareant judicatis. Ex Concilio Moguntino D. Petri."
+[76] Open round brackets.
+[77] Close round brackets.
+[78] "summarius. Clerici officia et commercia secularia non exerceant. Tabernis, nisi in itinere, choreis et spectaculis non intersint. Tonsuram congruam habeant, caste vivant. Propter incontinentiam autem suspensi, si celebraverint, et Beneficiis priventur, et perpetuo deponantur, a solo Papa dispensationem obtenturi. Ex Concilio Fritzlariensi D. Siffridi."
+[79] Open round brackets.
+[80] Close round brackets.
+[81] No heading. "summarius. Clerici vagabundi non recipiantur, nihil eis detur, ad Ordines et Beneficia, nisi bene prius emendati, non admittantur. Pauperes tamen tam Clerici, quam Laici justa necessitate peregrinantes, ab eleemosyna et hospitio non excludantur."
+[82] Open round brackets.
+[83] Close round brackets.
+[84] Open round brackets.
+[85] Close round brackets.
+[86] No heading. "summarius. Clerici vagabundi celebrare presumentes, de mandato Episcopi vel Archi-Diaconi cum auxilio, si opus est, seculari incarcerentur."
+[87] Open round brackets.
+[88] Close round brackets.
+[89] No heading. "summarius. Monialium claustra nullus Clericorum, Monachorum, aut Prelatorum sine necessitate ingrediatur. Ipse etiam Moniales clause, de Monasteriis, nisi ex necessitate non ingrediantur, Prelatis suis obediant, nemini nisi de eorum licentia confiteantur, et fenestre earum parlatorie duplicata habeant ferramenta. Ex Concilio Fritzlariensi D. Siffridi."
+[90] No heading. "summarius. Sacerdotes superpelliciis, et Campanarii camisiis, ex eleemosynis Parochie, aut propriis sumptibus procuratis in Divinis Officiis et Sacramentis ministrandis utantur. Alioquin Sacerdotes cessent a Divinis: damnum autem in oblationibus sibi tunc emergens populus refundat. Rurales etiam Presbyteri, loco campanariorum personas literatas disponant, quibus campanariorum emolumenta cedant, neque tales sine Archi-Diaconi consensu amoveantur. Ex Concilio, quo supra. Aschaffenburgensi impr. Mog. A. 1509."
+[91] Open round brackets.
+[92] Close round brackets.
+[93] Ed. Tholetano.
+[94] No heading. "Summarius. Sacerdotes Eucharistiam ad infirmos deferentes calopedibus non incedant. Nullus etiam Beneficiatus, vel in Sacris constitutus, ullam ejusdem loci Ecclesiam tempore Divinorum sine habitu religionis, aut mitratus sub poena suspensionis ingrediatur. Ex Concilio Aschaffenburgensi."
+[95] No heading. "summarius. Clerici vagabundi, Goliardi, sive Joculatores, si per annum tales permanserint, Clericali careant privilegio, et ad nullos Canonicos actus admittantur. Ex Concilio D. Petri."
+[96] No heading. "summarius. Clerici beneficiati per assumptionem status secularis apostatantes, si ad Ecclesiam vel Prebendas redire voluerint, tamdiu inclaustrentur, quamdiu se ab Ecclesia vel Prebenda alienaverant. Ex Concilio Fritzlariensi 171. Contra Clericos militares, qui quemcunque habitum portant Clericalem, quemcunque secularem."
+[97] "summarius. Prelati, quorum interest, publicam Clericorum et Mulierum cohabitationem corrigant. Qui autem hoc propter quaestum negligunt, a Praelationis sue honore dejiciantur. Et hoc ad minus semel in anno in Archi-Diaconali Capitulo, et semel in Episcopali Synodo publicetur. Et quisquis eorum hoc omiserit, ab officio est suspensus. Ex Concilio Fritzlariensi."
+[98] No heading. "summarius. Clericus post Canonicam admonitionem publice concubinam tenens, Officio, et Beneficio spolietur, quod si non curaverit, excommunicetur. Qui vero usque ad hec tempora eam tenuerit, si sit Canonicus, ad cibum quadragesimalem quadraginta diebus inclaustretur, quod si contempserit, neque Prebende sue fructus ei ministrentur, neque ad Chori et Capituli consortium admittatur, nisi penitentia peracta aut saltem incepta, et nisi juret eam non resumere. Quod si eam resumpserit, Beneficio privetur. Prelati autem hunc excessum dissimulantes excommunicationi subjaceant. Ex Concilio Fritzlariensi D. Siffridi."
+[100] No heading. "summarius. Sacerdos publice concubinam tenens de facto est ab officio suspensus, qua sententia durante, si celebrat, a Dioecesi expellatur. Ex Concilio Moguntino D. Wernheri."
+[101] ed. miseribordia
+[102] No heading. "summarius. Archidiaconi Clericos suos rurales concubinarios foventes aut dissimulantes, sunt ab officiis suspensi, et si in tali presumptione permanserint, Episcopi eos a dignitatibus amoveant, et eas aliis assignent. Ex Concilio Fritzlariensi D. Siffridi."
+[103] "summarius. Presentie, que in Divinis Officiis, Vigiliis, et Missis Defunctorum distribuuntur, nonnisi interessentibus debentur, exceptis, quos aut egritudo aut evidens Ecclesie utilitas, aut Superioris excusat auctoritas. Preter has, aut alias causas, absentes, et presentias recipientes, ad restitutionem tenentur, a quo nulla eos consuetudo excusat. Ex Concilio D. Petri"
+[104] No heading. "summarius. Habentes in civitatibus unum Curatum, et aliud in Collegio Beneficium aut eligant alterum, in quo resideant, aut ad dimittendum unum compellantur, nisi ex gratia Episcopi ambo retinere  permittantur. Ex Concilio Fritzlariensi."
+[105] Open round brackets.
+[106] Close round brackets.
+[107] "summarius. Admittendus ad curam juret, in adeptione se Simoniam non commisisse. Ex Concilio Fritzlariensi."
+[108] No heading. "summarius. Clericus a Patronis sive laicis sive Clericis, sine Episcopi vel Archidiaconi licentia ad Beneficium institutus eodem Beneficio privetur: Ejusdemque collectio ea vice ad primum Superiorem devolvatur; Patronus autem temere de investitura se intromittens, si laicus sit, jure suo perpetuo privetur, Religiosi vero et illas et alias sibi unitas Ecclesias amittant. Ex Concilio Aschaffenburgensi."
+[109] Open round brackets.
+[110] Close round brackets.
+[111] No heading. "summarius. Templarii, Hospitalarii, et ceteri Religiosi sine Episcopi vel Archi-Diaconi institutione in Ecclesiis Dioecesano subjectis celebrantes, sententias inter se vel Ecclesias suas latas violantes, eorum in predictis defensores: in talibus interdictis Ecclesiis celebrantes, et in eisdem Divina audientes, ipso facto sunt excommunicati, Prelati autem infra mensem, post monitionem Dioecesani hos excessus corrigere dissimulantes, una cum Conventibus suis, jus sibi et ordini suo in dictis Ecclesiis competens, de facto amittunt. Ex Concilio Aschaffenburgensi."
+[113] "summarius. Ad Canonicatus nondum vacantes, unus tamen eligi, et talis ad residentiam compelli debet, sed non nisi cum hoc justa necessitas, et utilitas exegerit, que ante hujusmodi electionem est Episcopo exponenda. Si vero plures simul, aut successive eligantur, ipso jure electio non tenet, et tunc Episcopus ad tot prebendas eligere potest, quot persone fuerunt nominate. Ex Concilio Aschaffenburgensi."
+[115] "summarius. Qui pro vacante Episcopatu aut Prelatura consequenda, potentum sibi laicorum attrahunt favorem, aut filiis suis beneficia pro assistentia permittunt. 
+Ipso facto et jure sunt excommunicati, et deinceps ad hujusmodi dignitatem ineligibiles. Qui vero taliter ad Prelaturas aspirantibus pecunias mutuant, actione pro mutuo repetendo privatur. Ex Concilio Aschaffenburgensi, ex Fritzlariensi impr. A. 1509."
+[116] No heading. "summarius. Episcopo defuncto, vel Sede vacante Ecclesie bona occupans, de facto est excommunicatus, quem successor sine satisfactione et Capituli consensu absolvi non patiatur. Ex Concilio Moguntino. Ex eodem Fritzlariensi impr. A. 1509."
+[117] Open round brackets.
+[118] Close round brackets.
+[119] "summarius. Laicus in Ecclesia Jus Patronatus habens, si in presentatione ad eandem, decime vel aliarum obventionum partem ex pacto sibi vel suis reservat, excommunicetur, ejusque terra, donec Ecclesiam liberam demiserit, interdicatur. Clericus autem talem praesentationem acceptans Officio et Beneficio privetur, neque ad Beneficia vel actus Ecclesiasticos admittatur, nisi per Papam fuerit secum dispensatum: Episcopus vero vel Archidiaconus, qui talibus scienter curam committit animarum, perpetuo a Beneficiorum institutione suspendatur. Ex Concilio Fritzlariensi."
+[120] Open round brackets.
+[121] Close round brackets.
+[122] No heading. "summarius. Clerici notantes se a Patronis certa Beneficii ad quod praesentandi sunt, portione privari; si id Episcopis non conqueruntur, ab eisdem et suspendantur et Beneficiis priventur. Si vero conquesti sint: Episcopus talem Patronum per censuram Ecclesiasticam cohibeat, et si pertinax perstiterit, futura presentatione privetur. Ex eodem Concilio quo supra."
+[123] Open round brackets.
+[124] Close round brackets.
+[125] "Summarius. Sine consensu Capituli, Administratores, neque res Ecclesie penitus alienent, neque nemora secari faciant. Abbates vero, et eorum officiati, si id fecerint, ab officiis in perpetuum deponantur, in mutuo autem et rerum immobilium obligatione, Canones observentur. Ex Concilio Fritzlariensi."
+[126] Open round brackets.
+[127] Close round brackets.
+[129] Open round brackets.
+[130] Close round brackets.
+[131] No heading. "summarius. Ad obligandum, nulli privato aliquid de rebus Ecclesie concedatur: concessa vero infra mensem redimantur, et Ecclesie reddantur. Ex eodem, quo supra."
+[132] No heading. "summarius. In qualibet Ecclesia Procuratores Fabrice annuos ejus proventus in utilitatem Ecclesie convertant, et omni anno de ipsis rationem reddant: omnino autem caveant, ne inter personas dividantur, aut Prebendarum expense de eis solvantur, que ex suspensionibus sunt faciende. Ex eodem, quo supra Concilio."
+[133] No heading. "summarius. Ornatus et libri Ecclesie semel ad minus in anno visitentur, et sub sigillo conscribantur. Ex eodem."
+[135] No heading. "summarius. Ecclesiarum, Dignitatum, et Officiorum ejus predia et redditus, ac ad quelibet officia spectantia, omnia sub sigillo Prelatorum et Capituli conscribantur. Ex eodem."
+[136] No heading. "summarius. Residentes et de licentia Capituli in studio existentes equaliter participant redditus comparatos de proventibus annorum fabrice, et quae intuitu pietatis sine speciali conditione Ecclesiis conferuntur, hoc est, in corpore Prebendarum, non autem in distributionibus quotidianis. Ex eodem."
+[137] No heading. "Summarius. Ecclesiarum Advocati stipendiis et servitiis ad defensionem jurium, possessionum et hominum sibi assignatis sint contenti. Nihil aliud pro tantis sibi usurpent: Advocatias, si quas diviserint, reintegrent: feudatarii taliter occupatas dimittant, alioquin et Advocati et Feudatarii per excommunicationem et interdictum ab Ordinariis ad hoc compellantur. Ex Concilio Moguntino."
+[138] No heading. "summarius. Ecclesiarum Advocati juribus in prima Advocatie susceptione sibi assignatis sint contenti, Ecclesiasque suas pro viribus defendant. Ex Concilio Aschaffenburgensi."
+[139] No heading. "Summarius. Nemo Ecclesiam, ejus bona, jurisdictiones, jura, aut eorum vasallos violenter, aut propria auctoritate occupet, vel occupantibus per se, vel aliam consilium, auxilium, et favorem prestet. Quisquis autem hoc fecerit, nisi requisitus infra mensem damnum resarcierit, ipso facto sit excommunicatus. Ex eodem Concilio, quo supra."
+[140] No heading. "Summarius. Bona Ecclesie non dentur in suppignus, ad perpetuum contractum alienationis rerum Ecclesie roborandum, sine consensu Episcopi et solennitatibus juris sub pena Episcoporum suspensionis ab ingressu Ecclesie, aliorum autem Prelatorum ab officio et beneficio, reliquarum vero personarum excommunicationis. Ex Concilio D. Petri."
+[141] Open round brackets.
+[142] Close round brackets.
+[143] No heading. "Summarius. Nullus Prelatus cuicunque pensionem de rebus Ecclesie constituat, donec ei de beneficio provideat; factum enim non tenet, et tam promissor, quam promissarius ab officio et beneficio sunt suspendendi. Ex eodem Concilio D. Petri."
+[144] "Summarius. Nemo scienter predam emat vel teneat, sed mox restituat, alioquin excommunicetur. Ex Concilio Fritzlariensi."
+[145] "Summarius. Licet predium, cui jus Patronatus annexum est, alteri obligetur, ipsum tamen jus Patronatus semper apud obligantem manet. Ex Concilio, quo supra."
+[146] "summarius. Legata, quae Clerici de rebus Ecclesie concubinis et filiis suis faciunt, non tenent, debent autem Ecclesie applicari. Ex Concilio, quo supra."
+[147] No heading. "summarius. Ecclesiastica Clericus privetur sepultura, qui de rebus Ecclesie aliquid in testamento relinquit concubinis et spuriis suis, qui et ipso facto eisdem rebus careant, eorum etiam Ecclesia interdicatur, qui tale testamentum manutenere, aut res tales dictis personis presumunt ministrare. Ex eodem Concilio, quo supra."
+[148] Open round brackets.
+[149] Close round brackets.
+[150] No heading. "summarius. Morienti, qui in vita manufideles non elegit, duo ex Ecclesia deputentur, qui ejus legata exequantur. Ex Concilio Fritzlariensi."
+[151] No heading. "summarius. Fructus anni gratie non nisi in relevamen debitorum quam aliunde solvi non possent, aut pro aliqua pia causa decedentis Clerici in usum Ecclesie concedantur. Ex Concilio D. Gerhardi Moguntini."
+[152] No heading. "summarius. Omnibus, quibus jura testamentorum factionem non prohibent, libera semper sit facultas disponendi de bonis suis ad pis loca et Ecclesiasticas personas, dummodo heredes suos pretereant. Eos autem, qui vel defunctorum legata, vel ultimas voluntates impedire nituntur, Episcopi et Archidiaconi per excommunicationem in personas, et interdictum in loca coerceant. Ad quod exequendum dicti Prelati, quorum est testamenta defendere, merito se debent benivolos exhibere. Ex Concilio Aschaffenburgensi."
+[153] Open round brackets.
+[154] Close round brackets.
+[155] Open round brackets.
+[156] Close round brackets.
+[157] No heading. "summarius. Ordinarii Executores compellant, ut priusquam de rebus defuncti se intromittant, sub fide digno testimonio inventarium faciant, et infra annum omnia exequantur. Ex Concilio D. Petri Moguntino."
+[158] "summarius. Quadraginta dies indulgentiarum consequuntur, qui se in Parochiis suis faciunt sepeliri. Ex eodem Concilio, quo supra."
+[159] No heading. "summarius. Omnes Sacerdotes provintiae Moguntine tenentur [cessante causa legitima] dicere Missam pro defunctis pro Archi-Episcopo vel Episcopo infra octo dies, posteaquam sibi de morte alicujus eorum constiterit. Ex eodem Concilio, quo supra."
+[160] Open round brackets.
+[161] Close round brackets.
+[162] "summarius. Sub juramento in receptione Sacerdotii prestito, et Divini Judicii interminatione inhibetur omnibus Religiosis et secularibus Sacerdotibus, ne extra casum necessitatis alienum Parochianum ad confessionem recipiant, vel aliquod Sacramentum conferant, nisi de obtenta proprii Sacerdotis licentia. Et hoc plebani singulis Dominicis debent subditis suis publicare. Ex Concilio Moguntino D. Petri."
+[163] Open round brackets.
+[164] Close round brackets.
+[165] Open round brackets.
+[166] Close round brackets.
+[167] Open round brackets.
+[168] Close round brackets.
+[169] "Eadem verba habes supra de vita et honestate Clericorum, Capitulo quarto ad finem. Ex Concilio Fritzlariensi."
+[170] No heading. "Summarius. Monachi et Moniales compaternitatem non contrahant. Moniales egentes ab amicis sine scitu Magistrarum suarum nihil recipiant; sed et oblata et labores earum venire debent in commune. Ex eodem Concilio quo supra."
+[173] No heading. "Summarius. Nullus Religiosus utatur vestibus alterius coloris, quam ordini suo congruat.  Nullus Abbas vel Abbatissa habeat duas Abbatias. Nullus Monachus vel Monialis duo officia in Monasterio. Ex eodem Concilio."
+[174] No heading. "Summarius. Nullus non professus vel non professa, etiamsi diu in religione perstiterit, in Abbatem vel Abbatissam, vel ad officium aliquod eligatur. Ex eodem Concilio."
+[175] No heading. "Summarius. Sequens Capitulum disponit de Abbatum, Abbatissarum, Monachorum, Monialium, et Canonicorum Regularium, post Novitiatum Professione, proprietatibus, abdicatione, de ludis, vestibus, dormitionis et comestionis locis, pellitiis, calceis, cappis, secularium habitaculis juxta Monasteria, de alterius Monasterii Monachis recipiendis, de victu, de lapsu in carnale vitium, de necessariorum administratione, de mulierculis nullam regulam, vel continentiam professis. Ex eodem Concilio."
+[176] No heading. "summarius. Nulla in Beginam assumatur, nisi quadragesimum annum excesserit, et probate opinionis existat. Ex eodem."
+[177] Open round brackets.
+[178] Close round brackets.
+[179] No heading. "summarius. Singuli Plebani sub poena suspensionis tribus Dominicis et Festivis diebus, Beghardos et Beguttas moneant, ut sectam suam singularem, et ab Ecclesia non approbatam derelinquant. Alioquin ex Parochiis suis sub poena excommunicationis eos ejiciant, et tales vicinis Sacerdotibus denuncient."
+[180] Open round brackets.
+[181] Close round brackets.
+[182] No heading. "Summarius. Sub anathemate nullus Clericus vel Religiosus domos Beginarum ingrediatur."
+[183] No heading. "Summarius. Religiosi in Coenobiis cum secularibus convivia non faciant, neque ad convivia facienda, neque alias, quidquam usibus suis approprient sub poena carceris octo dierum. Ex Concilio Moguntinensi."
+[184] No heading. "Summarius. Cujuscunque ordinis aut sexus apostate, redire volentes: a Prelatis suis sub poena suspensionis non excludantur, neque victus aut vestitus eis subtrahatur, disciplina tamen consueta et regulari puniantur. Ex Concilio Aschaffenburgensi."
+[185] Open round brackets.
+[186] Close round brackets.
+[187] Open round brackets.
+[188] Close round brackets.
+[189] "Summarius. Episcopi et Archi-Diaconi sine consensu Capituli Ecclesie Cathedralis, consensum non prestent Hospitalariis, et aliis Religiosis, ad Ecclesiarum incorporationem. Ex Concilio Fritzlariensi."
+[190] No heading. "Summarius. Religiosi Ecclesias suas per seculares Presbyteros faciant inofficiari. Ex Concilio Moguntinensi."
+[191] "Summarius. Tam Clericus, quam laicus a jure presentandi ea vice suspenditur, sed et excommunicetur, qui Rectore defuncto dotem et Ecclesiam in mobilibus vel immobilibus spoliat, eandem autem Ecclesiam tunc Archi-Diaconus, aut eo negligente, Superior conferat. Ex Concilio Moguntino D. Petri."
+[192] No heading. "Summarius. Ecclesiarum Advocati, et Patroni, si aliud, quam quod eis ab antiquo debebatur, ab Ecclesiis, aut Clericis decedentibus diripuerint, et post trinam monitionem non restituerint, Advocati a jure Advocatie, Patroni vero a jure Patronatus et presentandi cadunt ipso facto, quod Ordinarii cum invocatione auxilii secularis districtissime exequantur. Ex Concilio quo supra."
+[193] Open round brackets.
+[194] Close round brackets.
+[195] "Summarius. Ecclesiam violatam, nemo, quam Episcopus reconciliare potest. Ex Concilio Fritzlariensi."
+[196] "Summarius. Sub Missa animarum solenni alie pro defunctis non celebrentur, nisi submissa voce et sine nota. Ex Concilio quo supra."
+[197] No heading. "Summarius. Sacerdotes in Sacramentis ministrandis, et aliis Divinis Officiis, induantur superpellitiis, que penes altare reserventur. Ex Concilio quo supra."
+[198] No heading. "Summarius. Novi Sacerdotes convivia per se vel alios in primiciis non procurent, ante tamen vel post: octo dierum spacio interposito, amicos, sine tamen insolentiis convocare possunt. Ex Concilio Moguntinensi D. Petri."
+[199] Open round brackets.
+[200] Close round brackets.
+[201] "Summarius. In baptizandis pueris formam Baptismi, et ipsi Sacerdotes in latino fideliter observent et doceant laicos in suo idiomate rite observare, posseque in necessitate pueros a parentibus baptizari, verum tunc de observata forma fideliter inquirant, quam si servatam invenerint, factum approbent, ungantque pueri pectus et scapulas oleo, verticem autem Chrismate: sin minus, tunc rite baptizetur puer a Sacerdote. Ex Concilio Fritzlariensi."
+[202] "Summarius. Ecclesiastica Sacramenta fideliter sub clavibus custodiantur, corporalia, palle, vasa sacra et Ministrorum vestimenta munda serventur. Ex eodem, quo supra."
+[203] "summarius. Adulti et discreti Statuta ab Ecclesia jejunia neque infringant, neque cum votivis commutent. Ex Concilio Fritzlariensi."
+[204] "summarius. Quisquis sine Dioecesani Episcopi consensu, et primaria lapidis Benedictione Ecclesiam novam fundaverit, aut fundatam transtulerit, Ecclesiasticus ab officio suspendatur, laicus autem ad satisfactionem usque excommunicetur. Altaria superflua tollantur, neque novum Altare fiat, nisi cum Episcopi consensu dotetur. Ex eodem Concilio quo supra."
+[205] No heading. "summarius. Suffraganei sive Episcopi aliorum in Pontificalibus Vicarii sine speciali suorum Episcoporum licentia Ecclesiam ullam, aut Oratorium non dedicent. In quorum etiam assumptione caveatur, ne Parochiali Ecclesiae, sub qua manebunt, sint nocumento, et sciant se ex generali sibi data commissione, nullam dispensandi, ligandi aut solvendi in Dioecesanorum subditos, nisi nominatim exprimatur, habere potestatem. Ex Concilio Moguntino."
+[206] Open round brackets.
+[207] Close round brackets.
+[208] No heading. "summarius. Solus Episcopus primarium lapidem benedicere et locare, aut hec alteri Episcopo demandare debet. Ex Concilio Fritzlariensi."
+[209] "summarius. Ecclesias incastellantes et ob hoc ejectis mortuorum ossibus cimiteria perfodientes, ipsorumque auxiliarii, et consultores sunt excommunicati, eorum etiam loca, omnia domicilia et receptacula cum talibus Ecclesiis interdicuntur, sed et eorundem familie Sacramenta subtrahuntur, Ecclesiastica sepultura negatur, donec munitio demoliatur. Ex Concilio Moguntinensi."
+[210] No heading. "Summarius. Ordinarii per Ecclesiasticas precaveant censuras, ne a spiritualibus personis pegagia, telonea, et alie hujusmodi angarie contra libertatem longo tempore obtentam injuste extorqueantur, extorte ut restituantur. Ex Concilio Moguntinensi."
+[211] No heading. "Summarius. Irrita sunt Statuta et consuetudines, que edite sunt vel servantur a quocunque contra Ecclesie, aut Ecclesiasticorum libertatem judicantes, aut secundum eas, inhabiles sunt ipso facto ad omnem legitimum actum in Ecclesia Dei. Ex Concilio Aschaffenburgensi."
+[212] No heading. "summarius. Quisquis Ecclesiis, piis locis, vel personis Ecclesiasticis collectas, exactiones, vel angarias imposuerit, vel bona Ecclesiastica invaserit, nisi satisfecerit, quadruplum refundat."
+[213] No heading. "summarius. Jurisdictionem Ecclesiasticam impedire, et emunitatem sacrorum locorum infringere vel violare nemo presumat."
+[214] Open round brackets.
+[215] Close round brackets.
+[216] No heading. "Summarius. Ungeltam communitas nulla instituat, institutam deponat, rerum venalium mensuras non immutet, servorum autem et mancipiorum Ecclesie decedentium jura, quibus debentur, permittat."
+[217] Open round brackets.
+[218] Close round brackets.
+[219] Ed. desiistat
+[220] No heading. "Summarius. Nemo Ecclesias, Ecclesiasticorum bona, jura, jurisdictiones, aut eorum vasalla violenter occupet, invadat, vel ad hoc auxilium, consilium, vel favorem per se vel per alium prestet. Occupata nisi infra mensem reddiderit, sit ipso facto excommunicatus. Nullus etiam laicus sub anathemate debet decedentium Clericorum peculium occupare."
+[221] Edition jumps from Liber Secundus to Liber Quartus with no Liber Tertius marked.
+[222] "Summarius. Matrimonium in conspectu Ecclesie reverenter celebretur, sed ante ejus contractum, fiat in Ecclesia per Presbyteros tribus Dominicis vel Festivis proclamatio de impedimentis sub pena excommunicationis, si quibus constiterit revelandis. Impedimentum autem celantes, postea neque ad accusationem, neque ad testimonium contra matrimonium admittantur. Ex Concilio Fritzlariensi."
+[224] No heading. "Summarius. Nullus Sacerdos, etiamsi Plebanus sit vel Archi-Presbyter, causas matrimoniales audire debet. Ex eodem Concilio quo supra."
+[225] Open round brackets.
+[226] Close round brackets.
+[227] "Summarius. Nullus a Sacerdote baptizatus potest cum ejusdem Sacerdotis filia matrimonium contrahere."
+[228] No heading. "Summarius. Ad Baptismum et Confirmationem unus tantum Patrinus assumatur."
+[229] "Summarius. Ordinandus cautionem vel promissionem de non petendo ab Ordinatore beneficio, quia simoniacum est, non interponat. Ex Concilio Aschaffenburgensi."
+[230] No heading. "Summarius. Pro Eucharistia, Oleo infirmorum, Baptismate, Chrismate, Oleo sancto, Sepultura, et aliis Sacramentis ministrandis sponte quaedam oblata licet, quomodolibet vero exacta munera sub pena excommunicationis recipere non licet. Qui vero taliter in Synodo convictus fuerit, si Vicarius est, omnino ab Archidiaconatu amoveatur. Si autem Pastor ab Officio et Beneficio, donec ab Episcopo super eo dispensationem obtinuerit, suspendatur. Et Sacerdos, qui interea Ecclesie deservit, singulos ejusdem proventus recipiat. Ex eodem Concilio, quo supra."
+[231] Open round brackets.
+[232] Close round brackets.
+[233] Open round brackets.
+[234] Close round brackets.
+[235] Printed with end of line hyphen as "suspende-dere".
+[236] "summarius. Judaei per excommunicationem, Christiani autem communitatum Rectores per Divinorum cessationem compellantur efficere, ut Judaei habitum et signa, quibus a Christianis internoscantur, publice gerant, Dignitates vel Officia publica et mancipia Christiana non habeant, visus etiam in parasceve in plateis Judeus, aut per ostium sive fenestram prospiciens, Dioecesano marcham argenti tenetur. Que omnia Rectores Parochiarum sub pena excommunicationis in locis ubi Judaei morantur, singulis Dominicis post singulas quatuor angarias publice populo insinuabunt. Ex Concilio Aschaffenburgensi."
+[237] Open round brackets.
+[238] Close round brackets.
+[239] Open round brackets.
+[240] Close round brackets.
+[241] No heading. "Summarius. Per excommunicationis sententiam, et exclusionem commercii Judaeorum cum aliis Christianis, prohibeantur Christiani in domibus Judaeorum, et cum Judaeis habitare. Ex Concilio Moguntino D. Petri."
+[242] "Summarius. Omnes heretici sive laici, sive Clerici, sunt excommunicati, qui primo ab Ecclesia per sententiam damnantur, et deinde a seculari judicio puniuntur, Clericis tamen prius ab Ordinibus degradatis. Ex Concilio Fritzlariensi."
+[243] No heading. "Summarius. Christiani ad Judaismum transeuntes, vel redeuntes, heretici reputantur."
+[244] "Summarius. Sub Archi-Diaconatu, ubi Clericus captus vel detentus est, cessetur a Divinis, infra loca autem, ubi tales captivatores et eorum adjutores domicilium, jurisdictionem, vel receptaculum habent, interdictum servetur."
+[245] "De quo in Bulla Pape Alexandri fit mentio, quod et in totam Provinciam prorogatum est, et in ea precipitur observari: infra Capitulo: Sacri."
+[246] Open round brackets.
+[247] Close round brackets.
+[248] No heading. "summarius. Eorum, qui Clericos captivare, detinere, occidere, mutilare, aut vulnerare presumpserunt, tam filii, quam tota eorum usque in quartam generationem posteritas, neque ad sacros Ordines, neque ad beneficia nec claustra admittantur. Ex Concilio Aschaffenburgensi."
+[249] No heading. "summarius. Capellani, Consiliarii, Scriptores captivatorum Clericorum, si Clerici sunt, sub pena excommunicationis a Dominis suis recedant. Advocati autem, qui detentoribus Clericorum consulendo vel scribendo patrocinium vel defensionem prestant, sunt execommunicati. Ex Concilio Aschaffenburgensi."
+[250] No heading. "summarius. Quantum amici Clericorum captivatorum dederint, vel promiserint pro liberatione captivati, tantundem tenentur Dioecesano. Detentor autem Clerici, si per mensem Clericum detinuerit, vel infra annum se absolvi non fecerit, cadit ab omnibus feudis ab Ecclesia obtentis. Episcopo vero captivato, tota captivatorum familia ab eo recedere tenetur. Captivatores autem et eorum posteritas perpetuo cadunt a feudis, que habent ab Ecclesia, que et deinceps Ecclesie applicentur. Ex eodem Concilio quo supra."
+[252] No heading. "summarius. Quod, et quomodo contra personarum Ecclesiasticarum spoliatores in jure sit procedendum, non obstante statuto quodam Moguntino, quo cavetur, spolii restitutionem infra octo dierum spacium faciendam. Ex Concilio Aschaffenburgensi."
+[253] "Sequens Capitulum supra ponitur sub titulo:"
+[254] No heading. "Summarius. Statuta de Clericorum, Episcoporumque captivatoribus, detentoribus, occisoribus, mutilatoribus, vulneratoribus, et spoliatoribus precipiuntur per totam Provinciam Moguntinam districte servari. Prorogantur etiam ad incendiarios, effractores, et temerarios Ecclesiarum destructores. Ubi autem absolutio vel dispensatio necessaria est, eam Moguntinensis Archi-Episcopus impertitur, dummodo tamen prius de satisfactione per Episcopum loci sit certior factus. Ex Concilio Moguntino D. Petri."
+[255] "Summarius. Notorii usurarii Ecclesiastica careant sepultura, non minus tamen heredes ad restitutionem compellantur, usurarium autem sepeliens, beneficio privetur, et singulis Dominicis usurarii excommunicentur, qui, si sint notorii, in egritudine non audiantur, nisi vel ipsi satisfecerint, vel heredes. Ex Concilio Fritzlariensi. Lunig. ex Aschaffenburgensi."
+[256] No heading. "Summarius. Definit hoc Capitulum poenam usurariorum publicorum, convictorum, vel confessorum, a juratis proclamatorum, de usura suspectorum, et usuras solventium, nec tamen usurarios accusantium: preterea usurariorum oblationem non recipiendam, Ecclesiasticam sepulturam, altarisque Communionem eis negandam, et Sacerdotum predicta admittentium, poenam. Item usurarios non nisi ab Episcopis et Archi-Diaconibus esse absolvendos. Insuper quomodo agendum cum usurariis resipiscere nolentibus, sed et absolutionem suam usque ad extrema differentibus. Postremo de familia usurariorum temere per mensem in excommunicatione durantium."
+[257] No heading. "Summarius. Nullum privilegium Usurarios, Ecclesiarum et Clericorum spoliatores et captivatores tuetur, quominus super tali eorum crimine possint conveniri."
+[258] No heading. "Summarius. Apostolicas et aliorum literas afferentes non admittantur, nisi prius per Dioecesanum vel Cathedrale Capitulum sint examinate, et ipsi per alterius eorum literas sint admissi. Tales autem citra predictam formam recipiens ipso jure ab Officio et Beneficio est suspensus. Quisquis vero aliter petitiones suas promovere presumpserit, debet a plebanis et aliis, ad quos venerit, una cum rebus suis occupari, et Dioecesano vel Archi-Episcopo presentari. Ex Concilio Fritzlariensi."
+[259] "Summarius. Omnes sortilegi sunt excommunicati, et a solis Episcopis extra mortis articulum absolvendi, quod singulis Dominicis et Festis est per Plebanos in Ecclesiis publicandum. Ex Concilio Fritzlariensi."
+[260] "summarius. Clericus excommunicatus vel suspensus ingerens se Divinis ab officio deponitur, fit infamis, et ad beneficia inhabilis, nisi a Sede Apostolica secum dispensetur. Ex Concilio Fritzlariensi."
+[261] "Summarius. Religiosi privilegiorum suorum fines non excedant, jura Patronatus ad Beneficia habentes, ea temere suis usibus non usurpent, sed idoneos Sacerdotes ad ea presentent. Alioquin lapso juris termino, Ordinarius de eis providebit. Excommunicati sunt etiam ipso facto, qui auxilium Religiosis prestant, ut de bonis, unde decimas solvere tenentur, Ecclesias in decimis defraudent, qui, si Clerici fuerint, beneficiis et dignitatibus sunt privati, locorum vero filii et nepotes in quartam usque generationem, ad dignitatem Ecclesiasticam sint inhabiles. Ex Concilio Aschaffenburgensi."
+[262] Closing bracket here but no matching opening bracket.
+[263] "Summarius. Canonicus publice convicia dicens Canonico, per quartam Prelato, per mediam anni partem a Capitulo et fructibus sit suspensus: manus injiciens violentas, dupliciter; vulnerans quadrupliciter dictas poenas patiatur, et priusquam restituatur, juxta Dioecesani arbitrium leso satisfaciat. Quod si mutilaverit etiam, omni beneficio sit ipso jure privatus, que omnia circa alios etiam Clericos beneficiatos eque sunt servanda. Ex Concilio Aschaffenburgensi."
+[264] "Summarius. Hoc Capitulum insequens vestigia C. Felicis eo tit. Lib VI. Primo punit insequentes, percutientes, aut capientes Archi-Episcopos vel Episcopos, et ejus criminis socios. Secundo: Eorum filios et nepotes. Tertio: Ipsis insecutoribus penam addit. Quarto: Ponit, a quo sint absolvendi. Quinto: Quam satisfactionem, cum absolventur, facere debeant. Sexto: Quid per absolutionem talem consequantur? Ultimo: Precipit secularibus potestatibus, ut hanc constitutionem districte observent, et observari faciant, et contrafacientibus penam imponit. Ex Concilio, quo supra."
+[265] Open round brackets.
+[266] Close round brackets.
+[267] "summarius. Confessor summam in confessionibus diligentiam adhibeat, confitentis conditionem vel statum taceat, peccati qualitatem, locum, vel circumstantias non specificet. Quin imo peccatorem nullatenus prodat, alioquin et ab officio deponatur, et in Monasterium detrudatur. Ex Concilio Fritzlariensi."
+[268] No heading. "summarius. Prius infirmi confessio (extra tamen mortis periculum) secrete audiatur, et deinde salutaris Eucharistia ad eum deferatur. Ex eodem, quo supra."
+[269] No heading. "Summarius. Penitentes ad reconciliationem non admittantur, nisi de peracta et vera penitentia Sacerdotis sui literas exhibeant, in quibusdam etiam vestis et tonsura solenniter penitentis requiratur. Ex Concilio, quo supra."
+[270] No heading. "Summarius. Confessor aliorum peccata expresso nomine non inquirat, Missas pro penitentia non injungat, ut ipse legat, neque efficiat, ut pro vivis tricenarium fiat. Ex eodem, quo supra."
+[271] No heading. "Summarius. Religiosi neque Beginis aut Beghardis, neque secularibus aliis Eucharistiam, aut alia Sacramenta porrigant, a Processionibus solennibus predicando, aut quibuscunque allectivis populum non abstrahant, sed ut eis intersit, et matricem Ecclesiam in Festivitatibus frequentet, populum sepe admoneant. Ex Concilio Moguntino."
+[272] No heading. "Summarius. In Dedicatione Ecclesie, etiamsi a pluribus Episcopis dedicetur, non dentur indulgentie ultra annum, in anniversario autem dies quadraginta, carenarum vero relaxatio et penitentium introductio soli diei Cene Domini reserventur. Ex eodem quo supra Concilio."
+[273] No heading. "Summarius. Plebs inducatur, ut in Quadragesime initio confiteatur, et in Paschate communicetur. Ex Concilio Fritzlariensi."
+[274] No heading. "Summarius. Episcopi duos penitentiarios, unum penes se, alium in Ecclesia Cathedrali habeant, ad quos in casibus Episcopis reservatis recurratur, et ipsi Episcoporum auctoritate dispensent, quod Archi Diaconi, Archi-Presbiteri, et Plebani suis Presbyteris subditis intimare et injungere debent. Ex Concilio Fritzlariensi."
+[275] No heading. "Summarius. In peccatis, quibus restitutio annexa est, ipsa ante omnia injungatur, si fieri possit. Ex eodem quo supra."
+[276] No heading. "Summarius. Tres casus Apostolico reservati."
+[277] No heading. "Summarius. Casus Episcopis reservati."
+[279] "Summarius. Excommunicationem et ejus absolutionem tempore sanitatis parvi facientes non nisi prestito juramento, et data cautione ideonea de satisfactione, quantum est possibile, in extremis ad reconciliationem non admittantur. Ex Concilio Fritzlariensi."
+[280] No heading. "Summarius. Ad excommunicatorum vitationem, ad interdicti observantiam non oportet, ut singulis intimatio fiat, sed sufficit in loco aliquo solennitatem publicationem fieri. Ex eodem Concilio, quo supra."
+[281] No heading. "Summarius. Excommunicatio in neminem feratur, nisi admonitione, quae per idoneas personas probari possit, premissa. Ex eodem Concilio."
+[282] Open round brackets.
+[283] Close round brackets.
+[284] Open round brackets.
+[285] Close round brackets.
+[286] No heading. "Summarius. Excommunicatum ab excommunicante Episcopo vicinis Episcopis denuntiatum, debent ipsi etiam vicini Episcopi vitare. Alioquin Ecclesie Cathedralis Canonici eosdem Episcopos excommunicato communicantes, aut non vitantes, vitare tenentur. Ex Concilio Fritzlariensi."
+[287] No heading. "Summarius. Quisquis intra cimiterium, loci interdicti defunctum sepelierit, vel opem ad hoc prestiterit, est ipso facto excommunicatus, et a solo Episcopo, vel ejus Vicario absolvendus, exhumato tamen prius corpore sepulti, et injuriam passis satisfacto. Et quod super predictis duobus expeditis, Ordinariorum vel Officialium suorum literas ostendat. Ex Concilio Aschaffenburgensi."
+[288] Open round brackets.
+[289] Close round brackets.
+[291] No heading. "Ex Concilio Moguntino D. Petri."

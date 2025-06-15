@@ -1,0 +1,80 @@
+Record ID: 1010
+Date: 1321c
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 71r-73r; Vatican BAV Vat Lat 9868 fols 277v-278r; Carcassonne, Bib dioc, ms. 3, fols. 76v-78r 
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; further corrections by Christine Barralis
+Date Started: April 24, 2018
+Date Finished: May 7, 2018
+Reviewed RWD: July 19, 2023
+Problems or Queries:
+
+
+--
+Notes:
+[1] Title omitted in BnF and BAV mss.
+[2] instruit Carcassonne and BAV mss; instruat BnF ms.
+[3] ut Carcassonne; quod BAV; non BnF ms.
+[4] nostrorum om. BnF and BAV mss
+[5] BAV; temporalibus BnF ms.
+[6] ci BnF ms.
+[7] BAV; varietates BnF ms.
+[8] medicine disciplinae BAV.
+[9] BAV; nobis et BnF ms.
+[10] BAV; Bernarde BnF ms.
+[11] Reading uncertain
+[12] prohibens BAV.
+[13] BAV; religiosis BnF ms.
+[14] BAV; residencia BnF ms.
+[15] i[n]
+[16] petestatem BnF ms.
+[17] uendicare Carcassonne; uindicarat BAV; uendica BnF ms.
+[18] facientem et recipientem Carcassonne; facientes et recipientes BnF and BAV
+[19] BAV; sentencie BnF ms.
+[20] BAV; ne BnF ms.
+[21] BAV; dispontiue BnF ms.
+[22] In BnF and BAV mss, the following text is separated as a distinct chapter; we have followed the more coherent structure of the Carcassonne ms
+[23] posint BnF and BAV mss
+[24] confitendi Carcassonne ms
+[25] BAV; rectorum BnF ms.
+[26] BAV; predicta BnF ms.
+[27] BAV; requirendis BnF ms.
+[28] sit BAV.
+[29] rectoris[s] BAV.
+[30] BAV; soluto BnF ms.
+[31] dictos BnF ms.
+[32] BAV; predecessores BnF ms.
+[33] quis BAV.
+[34] BAV; reperire BnF ms.
+[35] BAV; hunc casum BnF ms.
+[36] si[c]
+[37] BAV; aliis BnF ms.
+[38] absoluerunt BnF ms.
+[39] quam (instead of quod nil) BAV.
+[40] quod si BAV.
+[41] BAV; quos BnF ms.
+[42] restitutio fiat BAV.
+[43] BAV; cantitate BnF ms.
+[44] autem om. BnF and BAV mss
+[45] ostendant BAV.
+[46] incurra[n]t
+[47] BAV; communas BnF ms.
+[48] Item BAV.
+[49] BAV; editus BnF ms.
+[50] hominibus BAV.
+[51] prout BAV.
+[52] hospitalitate[m]
+[53] residencia[m]; hospitalitate et residencia BnF ms; hospitalitati et residenciae BAV.
+[54] contrarium facerent BAV; contrafacient ferimus BnF ms.
+[55] BAV; que BnF ms.
+[56] ecclesia[m]
+[57] incurrerent BAV.
+[58] Moderamus Carcassonne ms; Mandamus BnF and BAV mss
+[59] rost[r]o
+[60] sissum Carcassonne; om. BnF and BAV
+[61] anteriore BAV
+[62] [super]
+[63] superpellicio Carcassonne; superpellitio BnF; superpellitiis BAV.
+[64] BAV; synodo BnF ms.
+[65] superpellicio Carcassonne; superpellitio BnF and BAV; 
+[66] teneatur Carcassonne; neatur BnF; vetatur BAV.

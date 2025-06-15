@@ -1,0 +1,49 @@
+Record ID: 0784
+Date: 1301
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 49v-50r, 51v-52v; corrected against BAV Vat Lat 9868, f. 283r-284r; Carcassonne, Bibl. dioc. Ms. 3, f. 50r-51r
+--
+Transcribed by: Initial transcription of BnF MS by Jasmin Hauck (completed 25 April 2018), with readings of Paris MS checked against Vatican transcription; formatted May Peterson; numbering subsequently corrected against Carcassonne MS by Christine Barralis
+Date Started: April 24, 2018
+Date Finished: October 24, 2022
+Reviewed RWD: December 19, 2022
+Problems or Queries:
+
+
+--
+Notes:
+[1] uideliset ms.
+[2] plub ms.
+[3] This entire incipit is missing in Carcassonne MS, which instead gives the following: Constitutiones domini P. de Ruppe Forti episcopi Carcassonensis facte anno domini M°. CCC° primo.
+[4] icari (?) ms.
+[5] Vat.lat; mensem ms.
+[6] resti[tu]cionibus Vat.lat.
+[7] quoniam Vat.lat.
+[8] Vat.lat; personis ms.
+[9] Vat.lat; concessionem ms.
+[10] sanctis[s]imi
+[11] [a] Vat.lat.
+[12] om. Vat.lat.
+[13] om. Vat.lat.
+[14] memorate ms.; memorant Vat.lat.
+[15] tenea[n]tur Vat.lat.
+[16] confessore Vat.lat.
+[17] In the BnF ms, the previous chapter is divided into two separate capitula (with the second beginning here), whereas the Carcassonne ms merges these together.
+[18] generali Vat.lat.
+[19] Vat.lat; quibus ms.
+[20] quando Vat.lat.
+[21] annuntiant Vat.lat.
+[22] et de cuius mandato Vat.lat.
+[23] scriptura[m] Vat.lat.
+[24] statutum ms.
+[25] om. Vat.lat.
+[26] Vat.lat; custodian ms.
+[27] In the BnF ms, the previous chapter is merged with this one, whereas the Carcassonne ms separates them into two capitula.
+[28] relexemus ms.
+[29] ecclesiasticis ms.
+[30] Vat.lat; quod habeant ms.
+[31] [ecclesie] Vat.lat.
+[32] In the BnF ms, the previous chapter is merged with this one, whereas the Carcassonne ms separates them into two capitula.
+[33] Vat.lat; nescitati ms.
+[34] Vat.lat; expendiunt ms.
+[35] Vat.lat; applicare ms.

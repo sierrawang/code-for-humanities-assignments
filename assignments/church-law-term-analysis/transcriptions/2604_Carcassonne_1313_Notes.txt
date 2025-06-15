@@ -1,0 +1,44 @@
+Record ID: 2604
+Date: 1313
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 64r-65r
+
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; partially checked against Carcassonne MS by Christine Barraliis
+Date Started: April 24, 2018
+Date Finished: October 24, 2022
+Reviewed RWD: March 12, 2023
+Problems or Queries:
+
+--
+Notes:
+[1] sit Carcassonne and BAV; si BNF
+[2] exemplum Carcassonne; BnF and BAV excemplum
+[3] a[d] Vat.lat.
+[4] Vat.lat; sed ms BnF.
+[5] Vat.lat; suspectionis ms  BnF.
+[6] Vat.lat; famentariis ms  BnF.
+[7] In MSS BnF and BAV, this chapter continues to 'quandoque pueri suffocant' (in cap. 4); we follow here the more sensible chapter division of the Carcassonne MS.
+[8] [non] Vat.lat.
+[9] procedentur ms  BnF.
+[10] excommunicati[s]
+[11] Vat.lat; absoluendis ms  BnF.
+[12] Vat.lat; quiam ms  BnF.
+[13] Vat.lat; suffocantur ms BnF.
+[14] In MSS BnF and BAV, this chapter is divided in two (at 'detur propter officium'); we follow here the more sensible chapter division of the Carcassonne MS.
+[15] dica[n]t Vat.lat.
+[16] uesp[er]as Vat.lat.
+[17] deuiam ms  BnF.
+[18] mendicantes Carcassonne; medicantes BnF and BAV
+[20] co[n]stat
+[21] Vat.lat; reseruantes ms  BnF.
+[22] Vat.lat; nec ms  BnF.
+[23] presbiter ms  BnF; presbiteros Vat.lat.
+[24] defu[n]ctum; defuncto statutum Vat.lat.
+[25] offici[i]s Vat.lat.
+[26] eo[s] Vat.lat.
+[27] Vat.lat; moneamus ms  BnF.
+[28] [et] Vat.lat.
+[29] nata[lis] Vat.lat.
+[30] extunent ms  BnF.
+[31] Vat.lat; procuratorum ms BnF.

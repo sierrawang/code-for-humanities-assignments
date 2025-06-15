@@ -1,0 +1,92 @@
+Record ID: 0069
+Date: 1260c
+Location: Saintes
+Source: Avril, Statuts Synodaux V, 43-54
+--
+Transcribed by: Sara Ann Knutson
+Date Started: 26 September 2018
+Date Finished: 28 September 2018
+Reviewed RWD: 29 September 2019
+Problems or Queries:
+NB: Missing text inserted from other editions, as indicated in notes.
+
+--
+Notes:
+[1] "(statuts de Paris, can. 1, Les statuts, I, p. 52)" inserted here.
+[2] "(statuts de Paris, can. 4, Les statuts, I, p. 52)" inserted here.
+[3] "(statuts de Paris, can. 5, ibid.)" inserted here.
+[4] "(statut de Paris, can. 6, Les statuts, I, p. 54)" inserted here.
+[5] "(statuts de Paris, can. 7, ibid.)" inserted here.
+[6] "(statuts de Paris, can. 8, Les statuts, I, p. 56)" inserted here.
+[7] "(statuts de Paris, can. 9, ibid.)" inserted here.
+[8] "(statuts de Paris, can. 10, ibid.)" inserted here.
+[9] "(statuts de Paris, can. 11, ibid.)" inserted here.
+[10] "(statuts de Paris, can. 12, ibid.)" inserted here.
+[11] "(statuts de Paris, can. 13, ibid.)" inserted here.
+[12] "(statuts de Paris, can. 24, Les statuts, I, p. 60)" inserted here.
+[13] "(statuts de Paris, can. 22, ibid.)" inserted here.
+[14] "(statuts de Paris, can. 23, ibid.)" inserted here.
+[15] "(statuts de Paris, can. 80, Les statuts, I, p. 82)" inserted here.
+[16] "(statuts de Paris, can. 74, Les statuts, I, p. 78)" inserted here.
+[17] "(statuts de Paris, can. 76a, Les statuts synodaux, I, p. 80)" inserted here.
+[18] "(statuts de Paris, can. 18, Les statuts, I, p. 58)" inserted here.
+[19] "(statuts de Paris, can. 17, Les statuts, I, p. 58)" inserted here.
+[20] Ellipses inserted here.
+[21] "(statuts de Paris, can. 19, Les statuts, I, p. 58)" inserted here.
+[22] "(statuts de Paris, can. 20, ibid.)" inserted here.
+[23] "(statuts de Paris, can. 76b et 77a, Les statuts, I, p. 80)" inserted here.
+[24] "Cum quidam simplices" in italics.
+[25] "(statuts de Paris, can. 26, Les statuts, I, p. 62)" inserted here.
+[26] "(statuts de Paris, can. 27, ibid.)" inserted here.
+[27] "(statuts de Paris, can. 28, ibid.)" inserted here.
+[28] "(statuts de Paris, can. 29, ibid.)" inserted here.
+[29] Ellipses inserted here.
+[30] "(statuts de Paris can. 31, Les statuts, I, p. 64)" inserted here.
+[31] "(statuts de Paris, can. 37, ibid.)" inserted here.
+[32] "(statuts de Paris, can. 38, Les statuts, I, p. 66)" inserted here.
+[33] "(add. statuts de Paris, can. 8, Les statuts, I, p. 100)" inserted here.
+[34] Ellipses inserted here.
+[35] Ellipses inserted here.
+[36] "(statuts de Paris, can. 71-72, Les statuts, I, p. 76)" inserted here.
+[37] "(statuts de Paris, can. 32, Les statuts, I, p. 64)" inserted here.
+[38] Ellipses inserted here.
+[39] "(statuts de Paris, can. 59, Les statuts, I, p. 72)" inserted here.
+[40] "(add. statuts de Paris, can. 9, Les statuts, I, p. 101)" inserted here.
+[41] "(statuts de Paris, can. 40, Les statuts, I, p. 66)" inserted here.
+[42] "(statuts de Paris, can. 41, ibid.)" inserted here.
+[43] "(statuts de Paris, can. 42, Les statuts, I, p. 66-68)" inserted here.
+[44] "(statuts de Paris, can. 43, ibid.)" inserted here.
+[45] "(statuts de Paris, can. 44, Les statuts, I, p. 68)" inserted here.
+[46] "(statuts de Paris, can. 45, ibid.)" inserted here.
+[47] "(statuts de Paris, can. 47, Les statuts, I, p. 70)" inserted here.
+[48] "(statuts de Paris, can. 48, ibid.)" inserted here.
+[49] "(statuts de Paris, can. 46, ibid., p. 68-70)" inserted here.
+[50] "(statuts de Paris, can. 49, Les statuts, I, p. 70)" inserted here.
+[51] "deciis" in brackets.
+[52] "ut infra c. 1 et honesta" in parentheses.
+[53] Ellipses inserted here.
+[54] "(IV concile de Latran, can. 16, Conciliorum Oecumenicorum Decreta, p. 243)" inserted here.
+[55] "(IV concile du Latran, can. 18, ibid., p. 244)" inserted here.
+[56] "beneficia" in brackets.
+[57] Ellipses inserted here.
+[58] "(statuts de Paris, can. 89, Les statuts, I, p. 86)" inserted here.
+[59] Ellipses inserted here.
+[60] "(statuts de Paris, can. 68, Les statuts, I, p. 76)" inserted here.
+[61] Ellipses inserted here.
+[62] "(statuts de Paris, can. 61, ibid., p. 74)" inserted here.
+[63] "(statuts de Paris, can. 52, Les statuts, I, p. 72)" inserted here.
+[64] Ellipses inserted here.
+[65] "(statuts de Paris, can. 83, ibid., p. 84)" inserted here.
+[66] Ellipses inserted here.
+[67] "(statuts de Paris, can. 51, ibid., p. 70)" inserted here.
+[68] "(statuts de Paris, can. 88, Les statuts, I, p. 86)" inserted here.
+[69] "(synodal de l'Ouest, can. 123, Les statuts, I, p. 228-229)" inserted here.
+[70] "(ibid., can. 124, p. 228-230)" inserted here.
+[71] "(ibid., can. 125, p. 230)" inserted here.
+[72] "(ibid., can. 126, p. 230)" inserted here.
+[73] "(ibid., can. 127, p. 232)" inserted here.
+[74] "(ibid., can. 128, p. 232)" inserted here.
+[75] "(ibid., can. 129, p. 232-233)" inserted here.
+[76] "(ibid., can. 130, p. 234)" inserted here.
+[77] "(ibid., can. 131- 132a, p. 234)" inserted here.
+[78] "(ibid., can. 132b- 134, p. 234-236)" inserted here. 

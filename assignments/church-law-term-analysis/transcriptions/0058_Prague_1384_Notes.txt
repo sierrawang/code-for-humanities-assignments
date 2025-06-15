@@ -1,0 +1,47 @@
+Record ID: 0058
+Date: 1384
+Location: Prague
+Source: Ploc, Praszke Synody, 220-28
+--
+Transcribed by: Sara Ann Knutson 
+Date Started: 16 June 2018
+Date Finished: 16 June 2018
+Reviewed RWD: 16 Aug 2018
+Problems or Queries:
+
+--
+Notes:
+[1] Header "GHLMNRSZ" inserted here. 
+[2] Left-hand column text: "Anno domini MoCCCLXXXIIIIo die proxima post festum sancti Viti in sancta synodo per reverendissimum in Cristo patrem et dominum, dominum Iohannem, sancte Pragensis ecclesie archiepiscopum, mandatur omnibus et singulis decanis, plebanis ac aliis clericis cuiuscumque condicionis seu status fuerint per dyocesim Pragensem constitutis in virtute sancte obediencie et sub pena excommunicacionis ne tunicas a tergo scissas et ioppas seu tunicas albas et carbonibus desuper denigratas in modum laycorum deferant."
+[3] Left-hand column text: "Item mandavit eis, ne capucia nodata involventes ea seu circumligantes cum liripipiis loco mitre deferant."
+[4] Header "GHLMNRSZ" inserted here.
+[5] Header "HN" inserted here.
+[6] Header "GLRSZ" inserted here.
+[7] Header "GHLMNRSZ" inserted here.
+[8] Header "GHLMNRSZ" inserted here.
+[9] Left-hand column text: "Item mandatur ne plebani seu eorum vices gerentes per dyocesim Pragensem ludos supersticiosos in plebibus suis admittant specialiter ne in medio quadragesime extra portas urbis vel ville ymaginem ad hoc factam in modum mortui cum rikmis, sicud consuetudo prava in quibusdam locis inolevit, efferri permittant. Quosque enim tales invenerit, predicto domino archiepiscopo vel suis administratoribus in spiritualibus pro absolvendis reputent nec coram eis divina peragant donec a prefato domino archiepiscopo vel suis scilicet beneficium obtineant absolucionis."
+[10] Header "GHMNRSZ" inserted here.
+[11] Header "G" inserted here.
+[12] Header "SL" inserted here. 
+[13] Header "Z" inserted here.
+[14] Left-hand column text: "et compellendi per ecclesiasticam censuram et per nostros officiales non erant revocande, sed approbande."
+[15] Header "GHLMNPRSZ" inserted here.
+[16] Header "GHLMNPRSZ" inserted here.
+[17] Left-hand column text: "[Header: "I"]. Item mandatur eis <ut?> in diebus dominicis et festivis missam defunctorum loco summe misse non decantent, sed summam missam dominice seu festi sollempniter perficiant."
+[18] Header "GHLMNPRSZ" inserted here.
+[19] Header "GLPRSZ" inserted here.
+[20] Header "GHLMNPRSZ" inserted here.
+[21] Header "GLMPRSZ" inserted here.
+[22] Left-hand column text: "[Header: "I"]. Item predictus dominus archiepiscopus...omnibus clericis qui collectam beate Virginis apposuerint dat XL dies indulgenciarum." 
+[23] Header "GLPRSZ" inserted here.
+[24] "capitulo" in brackets.
+[25] "non predicabunt nisi mittantur" in italics.
+[26] "Rogate dominum messis, ut mittat operarios in messem suam" in italics.
+[27] Left-hand column text: "[Header: "I"]. Item mandatur plebanis, ne admittant ad predicacionem verbi Dei nisi <quis> ex speciali licencia predicti domini archiepiscopi vel suorum administratorum in spiritualibus admissus fuerit vel hoc privilegio obtineat."
+[28] Header "GHLMNPRSZ" inserted here.
+[29] "Christus resurgens" in italics.
+[30] Left-hand column text: "[Header: "I"]. Item mandatur ne tempore paschali in missa defunctorum Cristus resurgens loco gradualis non decantent, sed missam defunctorum more solito perficiant."
+[31] Header "GHLMNPRSZ" inserted here.
+[32] "Item rundelli sive cantilene dissolute in missis et trophfi in iubillis per clericos in organis vel eciam in aliis instrumentis minime decantentur. Item cum Deus in modulacione cantus instrumentalis non delectetur, sed pocius in devocione cordis, quare omnibus et singulis decanis, plebanis, clericis et laycis in virtute sancte obediencie districcius mandatur, ne ludos theatrales vel eciam fistulatores aut ioculatores in festo corporis Christi in processionibus ire quovismodo permittant et admittant" in italics.
+[33] Header "GHLMNPRS" inserted here.
+[34] "Item quia domino nostro archiepiscopo innotuit, quomodo multe negligencie per suos officiales in iudicio et extra committuntur multaque gravamina et oppressiones pauperibus clericis a dominis temporalibus contra Deum et iusticiam eciam in casibus ad forum ecclesiasticum spectantibus inferuntur, ideoque dictus reverendus pater disposuit et ordinavit de consistorio generali bis in anno per ipsum faciendo, videlicet postu sinodos beatorum Viti et Luce, si dies iuridice fuerint, alias in ipsarum festivitatum vigiliis, quod ipsi clerici et layci oppressi proposiciones coram eo verbo per se vel per alios facere debeant et in scriptis eidem relinquere, super quibus cum suis deliberare posset et negligencias atque defectus supplere et opressis iusticiam ministrare" in italics. 

@@ -1,0 +1,22 @@
+Record ID: 2603
+Date: 1313
+Location: Carcassonne
+Source: Paris BnF lat 1613, fols 63v-64r
+
+--
+Transcribed by: Jasmin Hauck; formatted by May Peterson; partially checked against Carcassonne MS by Christine Barraliis
+Date Started: April 24, 2018
+Date Finished: October 24, 2022
+Reviewed RWD: March 12, 2023
+Problems or Queries:
+
+--
+Notes:
+[1] Idem = Ordinationes facte per dominum episcopum Carcassonensem (inferred from previous entry in Carcassonne MS)
+[2] Title omitted in BnF and BAV
+[3] ali[i]s Vat.lat.
+[4] per nos Vat.lat; supernos ms.
+[5] Vat.lat; expectant ms BnF.
+[6] notarios ms BnF.
+[7] et ms BnF.
+[8] BnF and BAV conseqrati; Carcassonne tonsorati

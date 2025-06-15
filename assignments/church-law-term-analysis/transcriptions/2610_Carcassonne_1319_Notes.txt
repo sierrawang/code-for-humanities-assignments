@@ -1,0 +1,24 @@
+Record ID: 2610
+Date: 1319
+Location: Carcassonne
+Source: Paris BnF lat 1613, fol 67v; Carcassonne, Bibliothèque diocésaine, ms. 3, fol. 71v
+
+--
+Transcribed by: Jasmin Hauck, with additions and corrections by Christine Barralis
+Date Started: April 24, 2018
+Date Finished: October 22, 2022
+Reviewed RWD: July 19, 2023
+Problems or Queries:
+
+--
+Notes:
+[1] Title omitted in BnF and BAV mss.
+[2] potest Vat.lat.
+[3] renouamus BnF and BAV mss; repetimus et innouamus Carcassonne ms
+[4] tene[n]tur
+[5] [h]abeant
+[6] ullus Carcassonne and BnF mss; nullus BAV
+[7] uendant BnF ms.
+[8] ne[c] Vat.lat.
+[9] exponant BnF ms.
+[10] excommunicatio Vat.lat.

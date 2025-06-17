@@ -1,0 +1,19 @@
+Sure! Here's the transcription of the text in the image:
+
+---
+
+Let's see how well the GPT models can read this handwriting
+
+I love coding!!!
+
+Here is some python:
+
+def main()
+    L1 = []
+    L1.append(4)
+
+    print(L1)
+
+There are two bugs in the above code, can you find them?
+
+---

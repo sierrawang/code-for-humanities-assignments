@@ -1,17 +1,58 @@
-# Continuous Conversation
-In this assignment, you will implement a Chatbot that can maintain a continuous conversation with a user. The chatbot should have the full context/history of the conversation and be able to respond appropriately to user inputs.
+## Build a Chatbot with GPT
 
-The conversation should continue until the user presses "enter" without typing anything.
+In this assignment, you'll build a simple chatbot that uses OpenAI's API to hold a back-and-forth conversation with a user. The chatbot will remember everything said in the conversation and use that memory to generate appropriate responses.
 
-An example output of the chatbot should look like this:
+By the end of the assignment, you will have a functional command-line chatbot that feels responsive, interactive, and context-aware.
+
+---
+
+### Instructions
+
+#### 0. Setup
+
+* Import the openai libary
+* Define your main function
+
+#### 1. Write a `get_next_message` function
+
+Implement a function called `get_next_message(conversation)` that:
+
+* Takes in the full conversation so far (as a list of message dictionaries),
+* Sends the conversation to the GPT API,
+* Returns the next message from the assistant.
+
+Make sure to extract and return only the generated text (not the full response object).
+
+#### 3. Implement the conversation loop
+
+In your `main()` function:
+
+* Create an empty list called `conversation` to store the full history.
+* Ask the user for their first message and add it to the list with the role `"user"`.
+* Use a loop to:
+
+  * Send the full conversation to GPT using `get_next_message`
+  * Print GPT’s reply
+  * Add the GPT reply (role: `"assistant"`) and the user's next input (role: `"user"`) to the conversation
+* Stop the loop when the user submits an empty input.
+
+---
+
+### Output Example
 
 ```
-You: What fruit grows on an olive tree?
-AI: The fruit that grows on an olive tree is the olive. Olives are small, typically oval-shaped fruits that can be green or black, depending on the variety and ripeness. They are commonly used for producing olive oil, as well as being consumed directly or used in various culinary dishes.
-You: Remind me, what are we talking about?  
-AI: We are discussing the fruit that grows on an olive tree, which is the olive. If there's something specific you'd like to know more about regarding olives, olive trees, or any related topic, feel free to ask!
-You: 
+You: hi
+AI: Hello! How can I assist you today?
+You: im wondering what i just said
+AI: You said "hi." It seems like a friendly greeting! Is there something specific you'd like to discuss or ask about?
+You:
 ```
 
-Make sure to use the chat completions API to implement the chatbot.
-See it here: [Chat Completions API](https://platform.openai.com/docs/api-reference/chat).
+---
+
+### Optional Extensions
+
+* **Conversation Logging**: Save the full conversation to a text file so the user can refer back to it later.
+* **Developer Prompt Customization**: Add an initial `"developer"` message to define your chatbot's personality (e.g., "You are a wise owl").
+* **Token Counting**: Track how many tokens each message uses. You may want to truncate or trim older messages when the conversation gets long.
+* **Multiple Chat Modes**: Allow the user to choose between chatbot "modes" like helpful assistant, trivia master, or sarcastic friend.

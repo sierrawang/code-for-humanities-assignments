@@ -3,27 +3,21 @@ from openai import OpenAI
 import json
 
 
-client = OpenAI(api_key="<your_api_key_here>")  # Replace with your actual OpenAI API key
+client = OpenAI(api_key="your api key here")  # Replace with your actual OpenAI API key
 
 def get_good_or_bad_news(name_of_incident, impact):
-    response = client.chat.completions.create(
+    response = client.responses.create(
         model="gpt-4o",
-        messages=[
-            {
-                "role": "system",
-                "content": "You are an event analyst. Determine if the news is good or bad based on the incident name, impact, and outcome. Respond with a json object that has one attribute: is_good_news, which is a boolean value. If the news is good, set is_good_news to true; otherwise, set it to false."
-            },
-            {
-                "role": "user",
-                "content": f"Incident: {name_of_incident}\nImpact: {impact}"
-            }
-        ],
-        response_format={"type": "json_object"}
+        input=f"""
+        You are an event analyst. Determine if the news is good or bad based on the incident name, impact, and outcome. 
+        Incident Name: {name_of_incident}
+        Impact: {impact}
+        Respond with one word. Either "good" if the incident and impact are considered positive, or "bad" if they are negative.
+        """
     )
     
-    response_str = response.choices[0].message.content
-    response_json = json.loads(response_str)
-    return response_json.get('is_good_news', False)
+    response_str = response.output_text.strip().lower()
+    return response_str
 
 
 
@@ -38,7 +32,7 @@ def main():
         news_result.append(is_good_news)
     df['Is Good News'] = news_result
     # filter to only good news
-    good_news_df = df[df['Is Good News'] == True]
+    good_news_df = df[df['Is Good News'] == "good"]
     good_news_df.to_csv('good_news.csv', index=False, encoding='utf-8')
 
 

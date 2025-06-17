@@ -9,7 +9,7 @@ def setup_df():
     Returns:
         pd.DataFrame: A DataFrame containing the temperature data sorted by datetime.
     """
-    df = pd.read_csv("temperature_small.csv")
+    df = pd.read_csv("temperature.csv")
     # This line converts the 'datetime' column to datetime objects
     df["datetime"] = pd.to_datetime(df["datetime"])
     # This line sorts the DataFrame by the 'datetime' column

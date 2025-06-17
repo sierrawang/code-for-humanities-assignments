@@ -5,11 +5,12 @@ def get_ratio(row, pop_df, column_title):
     date = row['Date']
     year = date[:4]
     population_in_year = pop_df[pop_df['Year'] == int(year)]['Population'].values[0]
-    return row[column_title] / population_in_year
+    return round(row[column_title] / population_in_year, 4)
 
 def main():
     mta_df = pd.read_csv('mta_ridership.csv')
     nyc_population_df = pd.read_csv('nyc_population.csv')
+    mta_df["Year"] = mta_df["Date"].str[:4]
     
     for column in mta_df.columns:
         if column != "Date":

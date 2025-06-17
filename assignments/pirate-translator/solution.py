@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key="your api key here")
+client = OpenAI(api_key="your api key here")  # Replace with your actual OpenAI API key
 
 def main():
     # Define the prompt for the pirate translator
@@ -8,20 +8,13 @@ def main():
     prompt = input(f"Enter the English text to translate to {type_of_translation} speak: ")
 
     # Call the OpenAI API to get the translation
-    response = client.chat.completions.create(
+    response = client.responses.parse(
         model="gpt-4o-mini",
-        messages=[{
-            "role": "system",
-            "content": f"You are a {type_of_translation} translator. Translate English text to {type_of_translation} speak."
-        }, {
-            "role": "user",
-            "content": prompt
-        }],
-        max_tokens=50
+        input=f"Translate the following text to {type_of_translation} speak:\n\n{prompt}",
     )
 
     # Extract and print the translated text
-    translation = response.choices[0].message.content.strip()
+    translation = response.output_text
     print(f"{type_of_translation} Translation: {translation}")
 
 if __name__ == '__main__':

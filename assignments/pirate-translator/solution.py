@@ -8,7 +8,7 @@ def main():
     prompt = input(f"Enter the English text to translate to {type_of_translation} speak: ")
 
     # Call the OpenAI API to get the translation
-    response = client.responses.parse(
+    response = client.responses.create(
         model="gpt-4o-mini",
         input=f"Translate the following text to {type_of_translation} speak:\n\n{prompt}",
     )

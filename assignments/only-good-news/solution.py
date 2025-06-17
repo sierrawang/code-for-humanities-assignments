@@ -1,39 +1,48 @@
 import pandas as pd
 from openai import OpenAI
-import json
+import csv
 
+# Initialize the OpenAI client
+client = OpenAI(api_key="")  # Replace with your actual OpenAI API key
 
-client = OpenAI(api_key="your api key here")  # Replace with your actual OpenAI API key
-
-def get_good_or_bad_news(name_of_incident, impact):
+# Send the incident to GPT and have it classify whether it is "Good news" or "Bad news"
+def get_gpt_classification(incident_name, impact):
     response = client.responses.create(
-        model="gpt-4o",
+        model="gpt-4o-mini",
         input=f"""
         You are an event analyst. Determine if the news is good or bad based on the incident name, impact, and outcome. 
-        Incident Name: {name_of_incident}
+        Incident Name: {incident_name}
         Impact: {impact}
         Respond with one word. Either "good" if the incident and impact are considered positive, or "bad" if they are negative.
         """
     )
     
-    response_str = response.output_text.strip().lower()
-    return response_str
-
-
+    return response.output_text
 
 def main():
+    # Load the data
     df = pd.read_csv('important_dates.csv')
-    news_result = []
-    for index, row in df.iterrows():
-        print(f"Processing row {index + 1}/{len(df)}: {row['Name of Incident']}")
-        name_of_incident = row['Name of Incident']
-        impact = row['Impact']
-        is_good_news = get_good_or_bad_news(name_of_incident, impact)
-        news_result.append(is_good_news)
-    df['Is Good News'] = news_result
-    # filter to only good news
-    good_news_df = df[df['Is Good News'] == "good"]
-    good_news_df.to_csv('good_news.csv', index=False, encoding='utf-8')
+
+    column_names = ['Name of Incident', 'Impact', 'Classification']
+
+    with open("classifications.csv", "w") as file:
+        # Initialize a writer object
+        writer = csv.writer(file)
+
+        # Write the column names
+        writer.writerow(column_names)
+
+        # Loop over each row in the dataframe and classify the accident as good or bad
+        for index, row in df.iterrows():
+            print(f"Processing row {index + 1}/{len(df)}: {row['Name of Incident']}")
+            
+            # Use GPT to classify the event as good or bad
+            name_of_incident = row['Name of Incident']
+            impact = row['Impact']
+            gpt_response = get_gpt_classification(name_of_incident, impact)
+            
+            # Output the result to a new csv file
+            writer.writerow([name_of_incident, impact, gpt_response])
 
 
 if __name__ == '__main__':

@@ -57,8 +57,8 @@ def get_word_counts(input_filename):
 
 # Write the dictionary to the json output file
 def output_word_counts_as_json(word_counts, output_filename):
-    with open(output_filename, 'w') as bob:
-        json.dump(word_counts, bob)
+    with open(output_filename, 'w') as file_reference:
+        json.dump(word_counts, file_reference)
 
 def main():
     # 

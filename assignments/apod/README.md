@@ -5,10 +5,11 @@ There are three steps to complete this assignment:
 1. **Sign up for a free API key** at [NASA's API portal](https://api.nasa.gov/). The api key is free!
 2. **Fetch the APOD data** using the API key you received. The URL to fetch the APOD data is:
    ```
-    https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY
-    ```
+    https://api.nasa.gov/planetary/apod
+```
+    Make sure you add your API key as a query parameter with the key `api_key`.
 
-    Replace `DEMO_KEY` with your actual API key.
+    Replace `DEMO_KEY` with your actual API key. 
 
 3. **Use the APOD data to fetch the image** and display it in a user-friendly format. The APOD data will be in JSON format and will look like this:
 
@@ -25,3 +26,5 @@ There are three steps to complete this assignment:
    }
    ```
     The `url` field contains the URL of the image, and the `title` field contains the title of the image. Make a GET request to the `url` field to fetch the image, then save it to a file.
+
+You can use the NASA API documentation at [https://api.nasa.gov/](https://api.nasa.gov/) to learn more about the APOD endpoint and its parameters. (Scroll down to "Browse APIs" and look for "APOD")

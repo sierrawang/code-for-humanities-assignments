@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "0J3CHufnlbmwfcfLmAuEW5KOfFhc1RmH9xb4FPJd"
+API_KEY = "your api key here"  # Replace with your actual API key
 URL = "https://api.nasa.gov/planetary/apod"
 
 def main():

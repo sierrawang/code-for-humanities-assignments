@@ -21,6 +21,7 @@ def main():
             }
         ]
     )
+    print(response)
 
     print(response.output_text)
 

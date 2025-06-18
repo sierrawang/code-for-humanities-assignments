@@ -10,7 +10,7 @@ We downloaded this dataset [from here](https://www.kaggle.com/datasets/firedmosq
 
 You will answer the following research question:
 
-> **“Which factors best predict student exam scores?”**
+> **“Which factors most correlate with student exam scores?”**
 
 To do this, you will write code that analyzes the relationships between **exam score** and several **categorical variables** in the dataset:
 

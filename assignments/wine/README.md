@@ -25,8 +25,8 @@ We downloaded this data [from here](https://archive.ics.uci.edu/dataset/186/wine
 * Load both `winequality-red.csv` and `winequality-white.csv` into pandas DataFrames.
 * Print the number of samples for each wine type.
 * Calculate the average `alcohol` content for each wine type.
-* Compute the mean `pH` for each `"quality"` level (for red wine).
-* Compute the mean `sulphates` for each `"quality"` level (for red wine).
+* Compute the mean `pH` for each `quality` level (for red wine).
+* Compute the mean `sulphates` for each `quality` level (for red wine).
 * What are the average `quality` scores for wines with alcohol > 12%?
 
 Our output:

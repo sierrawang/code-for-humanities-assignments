@@ -1,12 +1,42 @@
 # Poetry Search
 In this assignment, you will use the PoetryDB API to search for poems by title and/or author. The goal is to write a program that asks the user for an author to search, a poem title to search and then fetches the relevant poems from the PoetryDB API. The program should display how many poems are returned and print the first 5 poems in a user-friendly format.
 
+In Sunrise, you used parameters to define the information you wanted to get from the API. In this assignment, you will use dynamic endpoints which must be constructed in the URL.
+
 The format of the Poetry DB API URL is:
 https://poetrydb.org/author,title/{Author to search};{Title to search}
+In the above URL, `{Author to search}` and `{Title to search}` are placeholders for the actual author and title you want to search for. You will replace these placeholders with the user input. This is a good potential use for fstrings
+
 
 You can see an example search for author = "Shakespeare" and title = "Sonnet":
 [https://poetrydb.org/author,title/Shakespeare;Sonnet](https://poetrydb.org/author,title/Shakespeare;Sonnet)
 
+The JSON returned by the API will be a list of dictionaries, where each dictionary in the list represents a poem. 
+
+One singular poem dictionary in the list might look like this:
+```json
+{
+    "title": "Sonnet 7: Lo! in the orient when the gracious light",
+    "author": "William Shakespeare",
+    "lines": [
+      "Lo! in the orient when the gracious light",
+      "Lifts up his burning head, each under eye",
+      "Doth homage to his new-appearing sight,",
+      "Serving with looks his sacred majesty;",
+      "And having climb'd the steep-up heavenly hill,",
+      "Resembling strong youth in his middle age,",
+      "Yet mortal looks adore his beauty still,",
+      "Attending on his golden pilgrimage:",
+      "But when from highmost pitch, with weary car,",
+      "Like feeble age, he reeleth from the day,",
+      "The eyes, 'fore duteous, now converted are",
+      "From his low tract, and look another way:",
+      "  So thou, thyself outgoing in thy noon:",
+      "  Unlook'd, on diest unless thou get a son."
+    ],
+    "linecount": "14"
+  }
+```
 
 An example output should look like this:
 

@@ -4,6 +4,9 @@ False positive rate = the amount of fake articles classified as real / total num
 
 False negative rate = the amount of real articles classified as fake / total number of real articles
 
+Try doing this challenge using a Jupyter notebook. You can make a Jupyter notebook like any other file, just add the extension `.ipynb` to the end of the file name.
+
+
 # Extensions
 To explore the topic further or challenge yourself, consider implementing one or more of the following extensions:
 
@@ -14,3 +17,5 @@ To explore the topic further or challenge yourself, consider implementing one or
 * **Prompting** See if you can improve the classification accuracy by changing the prompt you use to classify the articles. 
 
 * **Heatmap** - Using `matplotlib` that visualizes the false positive and false negative rates for each article. (Feel free to use ChatGPT to help you with this, however, try not to over complicate the code needed, and try to understand the code you are using.) Here is documentation on how to use `matplotlib` to make a heatmap: [matplotlib heatmap](https://matplotlib.org/stable/gallery/images_contours_and_fields/image_annotated_heatmap.html).
+
+* **Compare with other models** - Classify the news using two different models, such as `GPT-4o-mini`/ `GPT-4o`/`GPT-4.1`. Compare the false positive and false negative rates of each model. Which model performs best? Plot the models against each other using a bar chart.

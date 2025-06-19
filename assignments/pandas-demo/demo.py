@@ -7,6 +7,11 @@ NUM_FACULTY = 2345
 def main():
     # Load the data
     df = pd.read_csv("stanford.csv")
+    df = df[["grad_students", "faculty" ]]
+    print(df)
+    x = [ "7.0", "6.5"]
+    for i in range(len(x)):
+        x[i] = float(x[i])
 
     # Convert the values in the faculty column to be percentages
 

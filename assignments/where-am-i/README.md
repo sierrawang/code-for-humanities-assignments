@@ -19,6 +19,8 @@ Try all images with both of the following models:
 There is a noticeable difference in the quality of response.
 
 
+# Solution
+
 ```python
 from openai import OpenAI
 import base64

@@ -1,4 +1,4 @@
-from optimized_text_file import OptimizedTextFile
+from optimized_text_file_sol import OptimizedTextFile
 import json
 
 
@@ -71,3 +71,5 @@ for key in given_dict:
             print(f"Success: {key}.{subkey} = {given_dict[key][subkey]}")
 print("All tests passed successfully!")
 
+
+print(sonnet5)

@@ -11,7 +11,7 @@ class OptimizedTextFile:
 
         with open(filename, 'r') as file:
             for line in file:
-                self.lines.append(line.rstrip('\n'))
+                self.lines.append(line.strip('\n'))
                 self.line_count += 1
 
                 self.char_count += len(line)
